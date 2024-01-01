@@ -1,6 +1,6 @@
 ---
 title: DayTrading.Ltd
-subtitle: Forex Mastery: Strategies, Risk Management, Market Success
+subtitle: Forex Mastery | Strategies, Risk Management, Market Success
 layout: page
 callouts: home_callouts
 show_sidebar: true
