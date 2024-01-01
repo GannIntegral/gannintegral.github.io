@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: DayTrading.Ltd
+subtitle: Forex Mastery: Strategies, Risk Management, Market Success
 layout: page
 callouts: home_callouts
 show_sidebar: true
