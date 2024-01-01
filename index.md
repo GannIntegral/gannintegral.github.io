@@ -1,6 +1,7 @@
 ---
 title: DayTrading.Ltd
 subtitle: Forex Mastery | Strategies, Risk Management, Market Success
+description: Master Forex trading strategies, risk management, and navigate dynamic markets confidently. Your guide to successful currency exchange starts here!
 layout: page
 callouts: home_callouts
 show_sidebar: true
