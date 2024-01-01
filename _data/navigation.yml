@@ -1,6 +1,6 @@
-- name: Docs
+- name: Tutorials
   link: /docs/
-- name: Example Pages
+- name: Tools
   link: /#
   dropdown:
     - name: Landing Page With Callouts
