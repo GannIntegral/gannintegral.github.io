@@ -1,7 +1,7 @@
 ---
 title: Forex Trading Strategies, Risk Management & Market Success
-subtitle: Master Forex trading strategies, practice effective risk management, and confidently navigate dynamic markets with Day Trading Ltd. Your comprehensive guide to successful currency exchange.
-description: Master Forex trading strategies, practice effective risk management, and confidently navigate dynamic markets with Day Trading Ltd. Your comprehensive guide to successful currency exchange.
+subtitle: Master Forex strategies, practice risk management, and confidently navigate dynamic markets with Day Trading Ltd. Your guide to successful currency exchange
+description: Master Forex strategies, practice risk management, and confidently navigate dynamic markets with Day Trading Ltd. Your guide to successful currency exchange
 layout: page
 callouts: home_callouts
 show_sidebar: true
