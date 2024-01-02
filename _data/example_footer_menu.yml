@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Blog
-  link: /blog/
+  link: /blog
 - name: Products
-  link: /products/
+  link: /products
 - name: Privacy Policy
-  link: /privacy-policy/
+  link: /privacy-policy
