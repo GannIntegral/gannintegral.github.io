@@ -7,7 +7,7 @@ description: >
   Master Forex trading strategies, practice effective risMaster Forex strategies, practice risk management, and confidently navigate dynamic markets with Day Trading Ltd. Your guide to successful currency exchange
 baseurl: ""
 url: "https://www.daytrading.ltd"
-permalink: none
+permalink: /:categories/:title:output_ext
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
