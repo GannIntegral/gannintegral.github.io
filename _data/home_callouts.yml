@@ -2,11 +2,11 @@ style: is-light
 items:
   - title: Proven Forex Strategies
     subtitle: Uncover time-tested Forex trading strategies that have proven to yield success. From trend analysis to risk mitigation, our comprehensive guide empowers you to trade with confidence
-    icon: fa-area-chart
+    icon: fa-puzzle-piece
   - title: Master Risk Management
     subtitle: Navigate the Forex market with precision through expert risk management techniques. Learn how to protect your investments and optimize your trading approach for sustained success
-    icon: fa-lock
+    icon: fa-shield
   - title: Dynamic Market Navigation
     subtitle: Stay ahead in ever-changing markets. Explore insights and tactics to confidently navigate the dynamic world of Forex trading. Your key to adapting and thriving in any market condition
-    icon: fa-pie-chart
+    icon: pie-chart
     icon_brand: false
