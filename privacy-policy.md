@@ -9,7 +9,7 @@ Last updated: 3rd January 2024
 
 Welcome to `www.daytrading.ltd`. This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the site.
 
-By using `https://www.daytrading.ltd/`, you agree to the collection and use of information in accordance with this policy.
+By using `https://www.daytrading.ltd`, you agree to the collection and use of information in accordance with this policy.
 
 ## Information Collection and Use
 While using our site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include but is not limited to your name and email address ("Personal Information").
