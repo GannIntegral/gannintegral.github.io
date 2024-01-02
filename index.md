@@ -1,5 +1,5 @@
 ---
-title: Forex Trading Strategies, Risk Management and Market Success
+title: Forex Trading Strategies, Risk Management & Market Success
 subtitle: Master Forex trading strategies, risk management, and navigate dynamic markets confidently. Your guide to successful currency exchange starts here!
 description: Master Forex trading strategies, risk management, and navigate dynamic markets confidently. Your guide to successful currency exchange starts here!
 layout: page
