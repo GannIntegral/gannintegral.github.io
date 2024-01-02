@@ -1,7 +1,7 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
   <div id="disqus_thread"></div>
-  <script>
+  <script defer>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
       this.page.identifier = '{{ page.url | absolute_url }}';
