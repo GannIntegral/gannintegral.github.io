@@ -4,6 +4,6 @@
 // Import Main CSS file from theme
 @import "main";
 
-a.body {
-	text-decoration : underline;
+body > p:not(.no-underline) a {
+  text-decoration: underline;
 }
