@@ -1,19 +1,2 @@
-- name: Tutorials
-  link: /docs
-- name: Tools
-  link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing
-    - name: Sponsors Page
-      link: /sponsors
-    - name: Image Gallery
-      link: /gallery
-    - name: Products
-      link: /products
-    - name: Recipe Page
-      link: /example-recipe
-    - name: Showcase
-      link: /showcase
 - name: Blog
   link: /blog
