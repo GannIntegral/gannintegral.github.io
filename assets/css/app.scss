@@ -3,7 +3,3 @@
 
 // Import Main CSS file from theme
 @import "main";
-
-body > p:not(.no-underline) a {
-  text-decoration: underline;
-}
