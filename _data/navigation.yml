@@ -14,6 +14,6 @@
     - name: Recipe Page
       link: /example-recipe/
     - name: Showcase
-      link: /showcase/
+      link: /showcase
 - name: Blog
   link: /blog/
