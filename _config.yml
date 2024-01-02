@@ -23,7 +23,6 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
 
 
 plugins:
@@ -64,7 +63,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "GannIntegral"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
