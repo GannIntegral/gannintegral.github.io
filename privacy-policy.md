@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-Last updated: 25 December 2023
+Last updated: 3rd January 2024
 
 Welcome to www.daytrading.ltd ("us," "we," or "our"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the site.
 
