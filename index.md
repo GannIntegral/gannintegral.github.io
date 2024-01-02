@@ -1,13 +1,13 @@
 ---
-title: DayTrading.Ltd
-subtitle: Forex Mastery | Strategies, Risk Management, Market Success
+title: Forex Mastery | Trading Strategies | Risk Management | Market Success
+subtitle: Master Forex trading strategies, risk management, and navigate dynamic markets confidently. Your guide to successful currency exchange starts here!
 description: Master Forex trading strategies, risk management, and navigate dynamic markets confidently. Your guide to successful currency exchange starts here!
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+## Bulma Clean Theme demo website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
