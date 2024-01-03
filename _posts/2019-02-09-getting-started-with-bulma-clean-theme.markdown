@@ -8,7 +8,7 @@ image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
 hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
 hero_darken: true
-published: true
+published: false
 show_sidebar: false
 toc: true
 tags: webdev showdev webdesign
