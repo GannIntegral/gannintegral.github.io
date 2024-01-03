@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: Discover how we prioritize your privacy. Learn about the information we collect and how we safeguard your data. Your trust matters to us.
 layout: page
-permalink: /:title:output_ext
+permalink: pretty
 show_sidebar: false
 ---
 
