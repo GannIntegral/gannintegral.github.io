@@ -5,7 +5,6 @@ description: Master Forex strategies, practice risk management, and confidently 
 layout: page
 callouts: home_callouts
 show_sidebar: false
-canonical_url: https://www.daytrading.ltd
 ---
 
 ## Empower Your Forex Journey with Day Trading Ltd
