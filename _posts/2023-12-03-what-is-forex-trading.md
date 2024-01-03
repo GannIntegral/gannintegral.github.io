@@ -12,7 +12,7 @@ published: true
 show_sidebar: false
 toc: true
 tags: forex-trading
-series: example_blog_series
+#series: example_blog_series
 ---
 
 ## Introduction: Deciphering the Currency Markets
