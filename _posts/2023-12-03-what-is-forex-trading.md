@@ -9,7 +9,7 @@ hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
 hero_darken: true
 published: true
-show_sidebar: true
+show_sidebar: false
 toc: true
 tags: forex-trading
 series: example_blog_series
