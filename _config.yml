@@ -32,7 +32,6 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
-  - jekyll-toc
 
 exclude: 
   - Gemfile
@@ -80,11 +79,3 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-
-# TOC Settings
-toc:
- min_level: 1
- max_level: 3
- list_class: toc
- list_class: toc__list
- sublist_class: toc__sublist
