@@ -9,10 +9,10 @@ hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
 hero_darken: true
 published: true
-show_sidebar: false
+show_sidebar: true
 toc: true
 tags: forex-trading
-#series: example_blog_series
+series: example_blog_series
 ---
 
 ## Introduction: Deciphering the Currency Markets
