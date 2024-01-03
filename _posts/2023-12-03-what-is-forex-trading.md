@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is FOREX Trading"
-date:   2024-01-03 21:23:00
+date:   2023-12-03 21:23:00
 categories: learning
 description: "Master Forex trading: strategies, risk management, and market navigation. Your key to success in the dynamic world of currency exchange. Dive in now!"
 image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
