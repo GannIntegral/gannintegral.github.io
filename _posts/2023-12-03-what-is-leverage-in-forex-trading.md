@@ -15,7 +15,6 @@ tags: leverage forex-trading
 #series: example_blog_series
 ---
 
-## Introduction
 <p>Leverage is a crucial concept in the world of <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">forex trading</a>, offering traders the potential to amplify their gains. However, it comes with inherent risks that should be carefully managed. In this article, we will delve into the concept of leverage, its mechanics, advantages, and the associated risks in the context of forex trading.</p>
 
 ## What is Leverage?

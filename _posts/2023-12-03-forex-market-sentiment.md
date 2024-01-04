@@ -15,7 +15,6 @@ tags: market-sentiment forex-trading
 #series: example_blog_series
 ---
 
-## Introduction
 The foreign exchange (forex) market, being the largest and most liquid financial market globally, operates 24/5, providing endless opportunities for traders. Amidst the complexities of currency trading, one crucial factor that significantly influences market dynamics is market sentiment. This article aims to delve into the intricacies of market sentiment in <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">forex trading</a>, exploring its definition, types, indicators, and the pivotal role it plays in shaping trading decisions.
   
 ## What is Market Sentiment?

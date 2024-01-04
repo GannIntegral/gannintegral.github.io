@@ -15,7 +15,6 @@ tags: fundamental-analysis forex-trading
 #series: example_blog_series
 ---
 
-## Introduction
 <p><a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a> involves the exchange of currencies on the global market, and successful traders employ various strategies to make informed decisions. One such approach is fundamental analysis, a method that focuses on economic, political, and social factors to predict currency movements. In this article, we will delve into the basics of fundamental analysis in forex trading.</p>
 
 ## What is Fundamental Analysis?
