@@ -67,7 +67,7 @@ tags: forex-trading
 
 ## Section 3: Fundamental Analysis in Forex
 <i>3.1 The Foundation of Fundamental Analysis:</i>
-<p><a href="https://www.daytrading.ltd/learning/fundamental-analysis-in-forex-trading">Fundamental analysis</a> in forex revolves around assessing economic factors that influence currency values. Economic indicators, fiscal policies, and geopolitical events play pivotal roles in shaping <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">market sentiment</a>. Traders employing fundamental analysis seek to understand the underlying forces driving currency movements.</p>
+<p><a href="https://www.daytrading.ltd/learning/fundamental-analysis-in-forex-trading">Fundamental analysis</a> in forex revolves around assessing economic factors that influence currency values. Economic indicators, fiscal policies, and geopolitical events play pivotal roles in shaping <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">forex market sentiment</a>. Traders employing fundamental analysis seek to understand the underlying forces driving currency movements.</p>
 
 <i>3.2 Key Economic Indicators:</i>
 <p>A range of <a href="https://www.daytrading.ltd/2023/12/understanding-economic-indicators-and.html">economic indicators</a> provides insights into a country's economic health. GDP growth rates, <a href="https://www.daytrading.ltd/2023/12/unveiling-dynamics-comprehensive.html">employment figures</a>, inflation rates, and trade balances are among the crucial indicators. Traders carefully analyze these metrics to gauge the strength or weakness of a currency.</p>
