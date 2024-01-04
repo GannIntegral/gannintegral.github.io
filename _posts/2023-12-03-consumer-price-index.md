@@ -23,7 +23,9 @@ tags: consumer-price-index forex-trading
 
 <p>The calculation involves gathering price data for the items in the market basket and then comparing these prices to the prices in the base period. The formula for CPI is:</p>
 
-<ul>CPI = (Cost of Basket in Current Year/Cost of Basket in Base Year) * 100</ul>
+```yaml
+CPI = (Cost of Basket in Current Year/Cost of Basket in Base Year) * 100
+```
 
 ## Significance of CPI
 <p>The Consumer Price Index serves several crucial purposes in the economic landscape:</p>
