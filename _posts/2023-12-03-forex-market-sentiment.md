@@ -22,8 +22,7 @@ The foreign exchange (forex) market, being the largest and most liquid financial
 Market sentiment refers to the overall feeling or attitude of market participants towards a particular financial instrument or the market as a whole. In the context of forex trading, it reflects the collective mood of traders and investors regarding the future direction of currency pairs. Understanding market sentiment is vital as it can be a powerful indicator of potential market movements. Factors such as economic data, geopolitical events, and market news contribute to shaping sentiment.
   
 ## Types of Market Sentiment
-### Bullish Sentiment
-Bullish sentiment prevails when traders are optimistic about the market's future direction. This optimism often leads to increased buying activity, pushing prices higher.
+**Bullish Sentiment** : Bullish sentiment prevails when traders are optimistic about the market's future direction. This optimism often leads to increased buying activity, pushing prices higher.
 
 ### Bearish Sentiment
 Conversely, bearish sentiment arises when market participants are pessimistic, anticipating a decline in prices. This sentiment prompts selling activity and can result in downward price movements.
