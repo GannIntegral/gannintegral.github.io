@@ -36,7 +36,7 @@ We reserve the right to update or change our Privacy Policy at any time, and you
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our site.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at 'zethgroup at gmail dot com'.
+If you have any questions about this Privacy Policy, please contact us at `zethgroup at gmail dot com`.
 
 
 
