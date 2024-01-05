@@ -26,7 +26,7 @@ tags: interest-rates forex-trading
 <p><strong>Long-Term Rates: </strong> Government bonds and other fixed-income securities are influenced by long-term rates, impacting mortgages and corporate borrowing costs.</p>
 
 ## How Interest Rates Affect Trading
-<p><strong>Forex Markets: </strong>Currency values are highly sensitive to interest rate differentials between countries. Traders often engage in <a href="https://www.daytrading.ltd/2023/12/understanding-and-implementing-carry.html">carry trades</a>, where they borrow in a low-interest-rate currency to invest in a higher-yielding one.</p>
+<p><strong>Forex Markets: </strong>Currency values are highly sensitive to interest rate differentials between countries. Traders often engage in <a href="https://www.daytrading.ltd/learning/carry-trade-forex-trading-strategy">carry trade forex trading strategy</a>, where they borrow in a low-interest-rate currency to invest in a higher-yielding one.</p>
 
 <p><strong>Equity Markets: </strong>Rising interest rates can lead to increased borrowing costs for companies, affecting their profitability and potentially lowering stock prices.</p>
 <p><strong>Bonds and Fixed-Income Securities: </strong>Bond prices move inversely to interest rates. When rates rise, bond prices tend to fall, and vice versa.</p>
