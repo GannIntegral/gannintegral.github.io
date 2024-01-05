@@ -67,7 +67,7 @@ Explore the potential gains as the calculator outlines the risk-reward relations
     <label>Stop Loss (pips):<br /><input id="stopLoss" required="" type="number" value="25" /></label><br /><br />
     <label>Number of Trades/Layer:<br /><input id="numTrades" required="" type="number" value="3" /></label><br />
 
-    <button onclick="calculate()" type="button">Calculate</button>
+    <button onclick="calculate()" type="button" class="button is-primary">Calculate</button>
   </form>
 
   <table id="resultTable" style="display: none;">
