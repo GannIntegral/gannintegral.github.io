@@ -32,13 +32,13 @@ tags: trend-following trading-strategy forex-trading
 
 ## Getting Started with Trend Trading
 <h3>1. Market Analysis</h3>
-<p>Before executing any trades, a meticulous analysis of the market is imperative. Employ various <a href="https://www.daytrading.ltd/2023/12/unveiling-art-of-technical-analysis-in.html">technical analysis</a> tools, including moving averages, trendlines, and <a href="https://www.daytrading.ltd/2023/12/support-and-resistance-in-trading.html">support and resistance</a> levels, to discern and confirm trends.</p>
+<p>Before executing any trades, a meticulous analysis of the market is imperative. Employ various <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">technical analysis</a> tools, including moving averages, trendlines, and <a href="https://www.daytrading.ltd/learning/support-and-resistance-in-forex-trading">support and resistance</a> levels, to discern and confirm trends.</p>
 
 <h3>2. Selecting the Right Timeframe</h3>
 <p>Tailor your approach by selecting a timeframe aligned with your trading objectives. Short-term traders may focus on intraday charts, while those with a long-term perspective might prefer daily or weekly charts for a broader view.</p>
 
 <h3>3. Risk Management</h3>
-<p>Establishing a robust <a href="https://www.daytrading.ltd/2023/12/mastering-forex-risk-management.html">risk management</a> plan is crucial for safeguarding your capital. This includes setting strategic stop-loss orders and determining position sizes that align with your risk tolerance and overall <a href="https://www.daytrading.ltd/2023/12/proven-forex-trading-strategies-for.html">trading strategy</a>.</p>
+<p>Establishing a robust risk management plan is crucial for safeguarding your capital. This includes setting strategic stop-loss orders and determining position sizes using <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">position sizes calculator</a> that align with your risk tolerance and overall <a href="https://www.daytrading.ltd/learning/best-forex-trading-strategy">trading strategy</a>.</p>
 
 ## Tools and Indicators for Trend Trading
 <h3>1. Moving Averages</h3>
