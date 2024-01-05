@@ -60,7 +60,7 @@ tags: forex-trading major-currency-pairs
   
 <strong>Market Sentiment:</strong>
 
-<li>Movements in major pairs often reflect broader <a href="https://www.daytrading.ltd/2023/12/understanding-market-sentiment-in-forex.html">market sentiment</a> and economic trends.</li><br>
+<li>Movements in major pairs often reflect broader <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">market sentiment</a> and economic trends.</li><br>
 
 <strong>Accessibility:</strong>
 
