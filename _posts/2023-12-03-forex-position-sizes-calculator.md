@@ -156,7 +156,7 @@ Explore the potential gains as the calculator outlines the risk-reward relations
       // Modified warning message
       if (hasZeroLot) {
         var warningDiv = document.getElementById('info');
-        warningDiv.innerHTML = "<div x-data='{visible: true}'><div class='notification is-danger' x-show.transition.duration.300ms='visible'><article class='media'><div class='media-left'><span class='icon'><i class='fas fa-exclamation-triangle fa-lg'></i></span></div><div class='media-content'><div class='content'><p>This is the message for the notification</p></div></div></article></div></div>"; // Customize this line
+        warningDiv.innerHTML = "<div x-data='{visible: true}'><div class='notification is-warning' x-show.transition.duration.300ms='visible'><article class='media'><div class='media-left'><span class='icon'><i class='fas fa-exclamation-circle fa-lg'></i></span></div><div class='media-content'><div class='content'><p>At least one of your calculated lot sizes is equal to 0.</p><p>Option 1</p><ul><li>You may choose to skip the trade with a lot size of 0 or consider entering a higher account balance.</li></ul><p>Option 2</p><ul><li>You may consider <a href='https://www.icmarkets.com/global/en/trading-accounts/overview/?camp=7746' rel='nofollow'>opening trading account</a> with highest leverage.</li></ul></div></div></article></div></div>"; // Customize this line
         warningDiv.style.display = "block"; // Show the warning div
       }
     }
