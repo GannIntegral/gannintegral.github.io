@@ -47,7 +47,7 @@ CPI = (Cost of Basket in Current Year/Cost of Basket in Base Year) * 100
 <p><strong>Geographical Variations:</strong> CPI may not accurately reflect regional differences in the cost of living, as it is based on a national average.</p>
 
 ## Conclusion
-<p>In summary, the Consumer Price Index is a vital <a href="https://www.daytrading.ltd/2023/12/understanding-economic-indicators-and.html">economic indicator</a> that provides insights into inflation, cost-of-living adjustments, and overall economic health. While it has its limitations, the CPI remains a fundamental tool for policymakers, economists, and individuals alike in understanding and navigating the complex dynamics of a modern economy.</p>
+<p>In summary, the Consumer Price Index is a vital <a href="https://www.daytrading.ltd/learning/economic-indicators-in-forex-trading">economic indicator</a> that provides insights into inflation, cost-of-living adjustments, and overall economic health. While it has its limitations, the CPI remains a fundamental tool for policymakers, economists, and individuals alike in understanding and navigating the complex dynamics of a modern economy.</p>
 
 <script type="application/ld+json">
 {
