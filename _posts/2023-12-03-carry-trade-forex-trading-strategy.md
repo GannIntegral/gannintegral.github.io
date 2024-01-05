@@ -11,7 +11,7 @@ hero_darken: true
 published: true
 show_sidebar: false
 toc: true
-tags: carry-trade-forex-trading-strategy forex-trading
+tags: carry-trade-trading-strategy forex-trading
 #series: example_blog_series
 ---
 
