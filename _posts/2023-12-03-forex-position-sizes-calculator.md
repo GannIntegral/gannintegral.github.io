@@ -59,16 +59,35 @@ Explore the potential gains as the calculator outlines the risk-reward relations
 <p>Unlock the potential of your trades with the Forex Risk Management Calculator – your companion in navigating the markets with precision and confidence.</p>
 
 <form id="calculatorForm">
-    Account Type:<br />
-    <label><input checked="" name="accountType" type="radio" value="standard" /> Standard Account</label>
-    <label><input name="accountType" type="radio" value="cent" /> Cent Account</label><br /><br />
-    <label>Account Balance:<br /><input id="initialBalance" required="" step="1" type="number" value="500" /></label><br /><br />
-    <label>Risk Percent (%):<br /><input id="riskPercentage" required="" step="0.1" type="number" value="5" /></label><br /><br />
-    <label>Stop Loss (pips):<br /><input id="stopLoss" required="" type="number" value="25" /></label><br /><br />
-    <label>Number of Trades/Layer:<br /><input id="numTrades" required="" type="number" value="3" /></label><br />
+    <table>
+        <tr>
+            <td>Account Type:</td>
+            <td>
+                <label><input checked="" name="accountType" type="radio" value="standard" /> Standard Account</label>
+                <label><input name="accountType" type="radio" value="cent" /> Cent Account</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Account Balance:</td>
+            <td><input id="initialBalance" required="" step="1" type="number" value="500" /></td>
+        </tr>
+        <tr>
+            <td>Risk Percent (%):</td>
+            <td><input id="riskPercentage" required="" step="0.1" type="number" value="5" /></td>
+        </tr>
+        <tr>
+            <td>Stop Loss (pips):</td>
+            <td><input id="stopLoss" required="" type="number" value="25" /></td>
+        </tr>
+        <tr>
+            <td>Number of Trades/Layer:</td>
+            <td><input id="numTrades" required="" type="number" value="3" /></td>
+        </tr>
+    </table>
 
     <button onclick="calculate()" type="button" class="button is-primary">Calculate</button>
-  </form>
+</form>
+
 
   <table id="resultTable" style="display: none;">
     <thead>
