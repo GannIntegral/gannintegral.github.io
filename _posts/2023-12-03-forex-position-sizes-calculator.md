@@ -62,10 +62,10 @@ Explore the potential gains as the calculator outlines the risk-reward relations
     Account Type:<br />
     <label><input checked="" name="accountType" type="radio" value="standard" /> Standard Account</label>
     <label><input name="accountType" type="radio" value="cent" /> Cent Account</label><br /><br />
-    <label>Account Balance:<br /><input id="initialBalance" required="" step="1" type="number" value="1000" /></label><br /><br />
-    <label>Risk Percent (%):<br /><input id="riskPercentage" required="" step="0.1" type="number" value="1" /></label><br /><br />
-    <label>Stop Loss (pips):<br /><input id="stopLoss" required="" type="number" value="150" /></label><br /><br />
-    <label>Number of Trades/Layer:<br /><input id="numTrades" required="" type="number" value="5" /></label><br />
+    <label>Account Balance:<br /><input id="initialBalance" required="" step="1" type="number" value="500" /></label><br /><br />
+    <label>Risk Percent (%):<br /><input id="riskPercentage" required="" step="0.1" type="number" value="5" /></label><br /><br />
+    <label>Stop Loss (pips):<br /><input id="stopLoss" required="" type="number" value="25" /></label><br /><br />
+    <label>Number of Trades/Layer:<br /><input id="numTrades" required="" type="number" value="3" /></label><br />
 
     <button onclick="calculate()" type="button">Calculate</button>
   </form>
