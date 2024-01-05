@@ -39,7 +39,7 @@ tags: cot-report forex-trading
 
 ## Impact on Trading Strategies
 <h3>Trend Following</h3>
-<p>Traders frequently employ the COT Report to complement <a href="https://www.daytrading.ltd/2023/12/mastering-trend-trading-comprehensive.html">trend-following strategies</a>. By aligning their positions with the dominant trend indicated by the report, they aim to ride the momentum in the market, potentially maximizing profits during sustained trends.</p>
+<p>Traders frequently employ the COT Report to complement <a href="https://www.daytrading.ltd/learning/trend-following-trading-strategy">trend following trading strategy</a>. By aligning their positions with the dominant trend indicated by the report, they aim to ride the momentum in the market, potentially maximizing profits during sustained trends.</p>
 
 <h3>Reversal Strategies</h3>
 <p>Contrarian traders, conversely, use the COT Report to identify potential turning points in the market. When non-commercial traders exhibit excessive bullish or bearish sentiment, contrarians may anticipate a reversal, positioning themselves to capitalize on the subsequent market shift.</p>
