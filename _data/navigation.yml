@@ -1,2 +1,7 @@
 - name: Blog
   link: /blog/
+- name: Trading Tools
+  link: /#
+  items:
+    - name: Position Sizes Calculator
+      link: /learning/forex-position-sizes-calculator
