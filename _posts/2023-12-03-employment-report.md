@@ -24,7 +24,7 @@ tags: employment-report forex-trading
 <p>The unemployment rate is a critical gauge of economic health, representing the percentage of the labor force actively seeking employment but currently without a job. A decline in the unemployment rate is generally perceived positively, signaling economic growth and increased job opportunities. Conversely, an uptick may raise concerns about economic slowdown or instability.</p>
 
 ## Non-farm Payrolls
-<p><a href="https://www.daytrading.ltd/2023/12/unlocking-trading-opportunities-guide.html">Non-farm payrolls</a> measure the number of jobs added or lost in the economy, excluding agricultural and related employment. A robust increase in non-farm payrolls is indicative of a growing economy, while a decline may suggest economic challenges. This metric provides insights into the overall direction of employment trends.</p>
+<p><a href="https://www.daytrading.ltd/learning/non-farm-payroll">Non-farm payrolls</a> measure the number of jobs added or lost in the economy, excluding agricultural and related employment. A robust increase in non-farm payrolls is indicative of a growing economy, while a decline may suggest economic challenges. This metric provides insights into the overall direction of employment trends.</p>
 
 ## Wage Growth
 <p>Wage growth reflects the change in average earnings for workers and is a crucial factor in assessing the well-being of the labor force. Increasing wages often correlate with a strong economy and improved living standards for workers. Conversely, stagnant or declining wages may raise questions about the sustainability of economic growth.<p>
