@@ -84,7 +84,7 @@ tags: forex-trading
 
 ## Section 4: Technical Analysis in Forex
 <i>4.1 The Art of Technical Analysis:</i>
-<p><a href="https://www.daytrading.ltd/2023/12/unveiling-art-of-technical-analysis-in.html">Technical analysis</a> is a method used by forex traders to evaluate and predict future price movements based on historical price data. Unlike fundamental analysis, which focuses on economic factors, technical analysis relies on charts, patterns, and statistical indicators to identify potential trends and reversals.</p>
+<p><a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">Technical analysis</a> is a method used by forex traders to evaluate and predict future price movements based on historical price data. Unlike fundamental analysis, which focuses on economic factors, technical analysis relies on charts, patterns, and statistical indicators to identify potential trends and reversals.</p>
 
 <i>4.2 Candlestick Charts and Price Patterns:</i>
 <p>Candlestick charts are a popular tool in technical analysis, offering a visual representation of price movements. Traders analyze various candlestick patterns to identify trends, reversals, and potential entry or exit points. Common patterns include doji, engulfing, and hammer candles.</p>
