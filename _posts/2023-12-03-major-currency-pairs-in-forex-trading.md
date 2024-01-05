@@ -23,7 +23,7 @@ tags: forex-trading major-currency-pairs
 <strong>EUR/USD (Euro/US Dollar):</strong>
 
 <li>Represents the Eurozone and the United States.</li>
-<li>Influenced by <a href="https://www.daytrading.ltd/2023/12/understanding-economic-indicators-and.html">economic indicators</a>, monetary policies, and geopolitical events in both regions.</li><br>
+<li>Influenced by <a href="https://www.daytrading.ltd/learning/economic-indicators-in-forex-trading">economic indicators</a>, monetary policies, and geopolitical events in both regions.</li><br>
 
 <strong>USD/JPY (US Dollar/Japanese Yen):</strong>
 
