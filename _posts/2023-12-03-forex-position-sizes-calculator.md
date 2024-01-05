@@ -156,7 +156,7 @@ Explore the potential gains as the calculator outlines the risk-reward relations
       // Modified warning message
       if (hasZeroLot) {
         var warningDiv = document.getElementById('info');
-        warningDiv.innerHTML = {%- include head-scripts.html -%}; // Customize this line
+        warningDiv.innerHTML = {%- include custom-calculator-alert.html -%}; // Customize this line
         warningDiv.style.display = "block"; // Show the warning div
       }
     }
