@@ -156,14 +156,14 @@ Explore the potential gains as the calculator outlines the risk-reward relations
       // Modified warning message
       if (hasZeroLot) {
         var warningDiv = document.getElementById('info');
-        warningDiv.innerHTML = {% include notification.html 
-message="This **message** contains _markdown_ and a [link](https://www.csrhymes.com).
+        warningDiv.innerHTML = "{% include notification.html 
+message='This **message** contains _markdown_ and a [link](https://www.csrhymes.com).
 
 It also contains a second paragraph.
 
 * List item
 * List item
-"  %}; // Customize this line
+'  %}"; // Customize this line
         warningDiv.style.display = "block"; // Show the warning div
       }
     }
