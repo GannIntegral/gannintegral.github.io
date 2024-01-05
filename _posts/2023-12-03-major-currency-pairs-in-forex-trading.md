@@ -71,11 +71,11 @@ tags: forex-trading major-currency-pairs
 <ul>
 <strong>Interest Rates:</strong>
 
-<li>Central bank <a href="https://www.daytrading.ltd/2023/12/understanding-interest-rates-and-their.html">interest rate</a> decisions play a significant role in determining currency values.</li><br>
+<li>Central bank <a href="https://www.daytrading.ltd/learning/interest-rates">interest rate</a> decisions play a significant role in determining currency values.</li><br>
 
 <strong>Economic Indicators:</strong>
 
-<li>Key economic data such as <a href="https://www.daytrading.ltd/2023/12/understanding-gross-domestic-product.html">Gross Domestic Product</a>, <a href="https://www.daytrading.ltd/2023/12/unveiling-dynamics-comprehensive.html">employment reports</a>, and inflation figures impact currency pair movements.</li><br>
+<li>Key economic data such as <a href="https://www.daytrading.ltd/2023/12/understanding-gross-domestic-product.html">Gross Domestic Product</a>, <a href="https://www.daytrading.ltd/learning/employment-report">employment reports</a>, and inflation figures impact currency pair movements.</li><br>
 
 <strong>Geopolitical Events:</strong>
 
