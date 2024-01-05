@@ -90,7 +90,7 @@ tags: forex-trading
 <p>Candlestick charts are a popular tool in technical analysis, offering a visual representation of price movements. Traders analyze various candlestick patterns to identify trends, reversals, and potential entry or exit points. Common patterns include doji, engulfing, and hammer candles.</p>
 
 <i>4.3 Trendlines and Support/Resistance Levels:</i>
-<p>Trendlines are used to identify the direction of price movement. Connecting successive highs or lows on a chart helps traders visualize trends. <a href="https://www.daytrading.ltd/2023/12/support-and-resistance-in-trading.html">Support and resistance</a> levels indicate price zones where an asset may experience buying or selling pressure, serving as key reference points for traders.</p>
+<p>Trendlines are used to identify the direction of price movement. Connecting successive highs or lows on a chart helps traders visualize trends. <a href="https://www.daytrading.ltd/learning/support-and-resistance-in-forex-trading">Support and resistance</a> levels indicate price zones where an asset may experience buying or selling pressure, serving as key reference points for traders.</p>
 
 <i>4.4 Technical Indicators:</i>
 <p>A plethora of technical indicators provides additional layers of analysis. Moving Averages, Relative Strength Index (RSI), and Bollinger Bands are among the widely used indicators. These tools help traders spot potential trend changes, overbought or oversold conditions, and market volatility.</p>
