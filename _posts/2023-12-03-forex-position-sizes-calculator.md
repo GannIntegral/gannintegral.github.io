@@ -85,8 +85,11 @@ Explore the potential gains as the calculator outlines the risk-reward relations
         </tr>
     </table>
 
-    <button onclick="calculate()" type="button" class="button is-primary">Calculate</button>
+    <div style="text-align: center; margin-top: 20px;">
+        <button onclick="calculate()" type="button" class="button is-primary">Calculate</button>
+    </div>
 </form>
+
 
 
   <table id="resultTable" style="display: none;">
