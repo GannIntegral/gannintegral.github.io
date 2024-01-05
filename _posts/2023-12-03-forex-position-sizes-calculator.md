@@ -17,7 +17,7 @@ tags: position-sizes-calculator forex-trading
 
 ## Unlocking Success with Smart Position Sizing Calculator and Risk Reward Ratios
 
-<p>When it comes to <a href="https://www.daytrading.ltd/2023/12/understanding-forex-trading.html">Forex trading</a>, successful risk management is key to long-term profitability. In this guide, we'll explore a powerful tool designed to help traders navigate the complex landscape of risk: the Forex Risk Management Calculator.</p>
+<p>When it comes to <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>, successful risk management is key to long-term profitability. In this guide, we'll explore a powerful tool designed to help traders navigate the complex landscape of risk: the Forex Risk Management Calculator.</p>
 
 ## Understanding the Basics
 ### 1. Account Type Matters
