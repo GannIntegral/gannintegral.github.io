@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding Interest Rates and Their Impact on Forex Trading"
+title:  "Interest Rates and Their Impact on Forex Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Explore the impact of interest rates on trading strategies. From forex to equities, learn how to navigate markets in a changing rate environment."
