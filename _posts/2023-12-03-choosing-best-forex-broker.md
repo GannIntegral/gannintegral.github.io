@@ -134,8 +134,7 @@ tags: best-forex-broker forex-trading
         "text": "Research a broker's reputation by reading reviews from other traders. Pay attention to both positive and negative feedback to gain insights into the broker's overall performance. This helps you make an informed decision based on real user experiences."
       }
     }
-  ],
-  "answerCount": "10"
+  ]
 }
 
 </script>
