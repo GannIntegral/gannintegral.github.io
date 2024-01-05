@@ -23,11 +23,11 @@ tags: fundamental-analysis forex-trading
 ## Key Components of Fundamental Analysis
 <ul><h3>Economic Indicators:</h3>
 
-<li><strong><a href="https://www.daytrading.ltd/2023/12/understanding-gross-domestic-product.html">Gross Domestic Product</a> (GDP):</strong> A measure of a country's economic performance.</li>
+<li><strong><a href="https://www.daytrading.ltd/learning/gross-domestic-product">Gross Domestic Product</a> (GDP):</strong> A measure of a country's economic performance.</li>
   
 <li><strong><a href="https://www.daytrading.ltd/learning/consumer-price-index">Consumer Price Index</a> (CPI):</strong> Reflects inflation levels.</li>
   
-<li><strong><a href="https://www.daytrading.ltd/2023/12/unveiling-dynamics-comprehensive.html">Unemployment Rates</a>:</strong> Indicates the health of the job market.</li>
+<li><strong><a href="https://www.daytrading.ltd/learning/employment-report">Employment Report</a>:</strong> Indicates the health of the job market.</li>
 
 <h3>Interest Rates:</h3>
 
