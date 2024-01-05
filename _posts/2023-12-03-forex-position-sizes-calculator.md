@@ -156,7 +156,7 @@ Explore the potential gains as the calculator outlines the risk-reward relations
       // Modified warning message
       if (hasZeroLot) {
         var warningDiv = document.getElementById('info');
-        warningDiv.innerHTML = "<ul><strong>Info :</strong><p>At least one of your calculated lot sizes is equal to 0. You may choose to skip the trade with a lot size of 0 or consider entering a higher account balance.</p></ul>"; // Customize this line
+        warningDiv.innerHTML = {%- include head-scripts.html -%}; // Customize this line
         warningDiv.style.display = "block"; // Show the warning div
       }
     }
