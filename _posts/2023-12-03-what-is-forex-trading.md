@@ -147,7 +147,7 @@ tags: forex-trading
 <p>Blend both fundamental and technical analysis to form a comprehensive view of the market. Fundamental factors can shape your overarching bias, while technical analysis provides entry and exit points. Striking a balance between these approaches enhances your ability to identify high-probability trading opportunities.</p>
 
 <i>7.4 Risk Management within the Strategy:</i>
-<p>Embed <a href="https://www.daytrading.ltd/2023/12/mastering-forex-risk-management.html">risk management</a> principles directly into your trading strategy. Define the percentage of capital at risk per trade, set appropriate stop-loss levels, and establish risk-reward ratios. A well-structured risk management plan safeguards your capital during inevitable market fluctuations.</p>
+<p>Embed risk management principles directly into your trading strategy. Define the percentage of capital at risk per trade, set appropriate stop-loss levels, and establish risk-reward ratios. A well-structured risk management plan safeguards your capital during inevitable market fluctuations.</p>
 
 <i>7.5 Backtesting and Continuous Improvement:</i>
 <p>Before deploying your strategy in live markets, conduct thorough backtesting using historical data. This process helps identify the strengths and weaknesses of your strategy. Regularly review and adapt your strategy based on changing market conditions and your evolving understanding of the forex landscape.</p>
