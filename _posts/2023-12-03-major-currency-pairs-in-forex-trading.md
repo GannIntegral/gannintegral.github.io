@@ -75,7 +75,7 @@ tags: forex-trading major-currency-pairs
 
 <strong>Economic Indicators:</strong>
 
-<li>Key economic data such as <a href="https://www.daytrading.ltd/2023/12/understanding-gross-domestic-product.html">Gross Domestic Product</a>, <a href="https://www.daytrading.ltd/learning/employment-report">employment reports</a>, and inflation figures impact currency pair movements.</li><br>
+<li>Key economic data such as <a href="https://www.daytrading.ltd/learning/gross-domestic-product">Gross Domestic Product</a>, <a href="https://www.daytrading.ltd/learning/employment-report">employment reports</a>, and inflation figures impact currency pair movements.</li><br>
 
 <strong>Geopolitical Events:</strong>
 
