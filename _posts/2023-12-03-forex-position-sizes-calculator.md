@@ -60,8 +60,8 @@ Explore the potential gains as the calculator outlines the risk-reward relations
 
 <form id="calculatorForm">
     Account Type:<br />
-    <label><input checked="" name="accountType" type="radio" value="cent" /> Cent Account</label>
-    <label><input name="accountType" type="radio" value="standard" /> Standard Account</label><br /><br />
+    <label><input checked="" name="accountType" type="radio" value="standard" /> Standard Account</label>
+    <label><input name="accountType" type="radio" value="cent" /> Cent Account</label><br /><br />
     <label>Account Balance:<br /><input id="initialBalance" required="" step="1" type="number" value="20000" /></label><br /><br />
     <label>Risk Percent (%):<br /><input id="riskPercentage" required="" step="0.1" type="number" value="1" /></label><br /><br />
     <label>Stop Loss (pips):<br /><input id="stopLoss" required="" type="number" value="150" /></label><br /><br />
