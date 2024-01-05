@@ -156,7 +156,7 @@ Explore the potential gains as the calculator outlines the risk-reward relations
       // Modified warning message
       if (hasZeroLot) {
         var warningDiv = document.getElementById('info');
-        warningDiv.innerHTML = {%- include custom-calculator-alert.html -%}; // Customize this line
+        warningDiv.innerHTML = "<div x-data='{visible: true}'><div class='notification is-danger' x-show.transition.duration.300ms='visible'><article class='media'><div class='media-left'><span class='icon'><i class='fas fa-exclamation-triangle fa-lg'></i></span></div><div class='media-content'><div class='content'><p>This is the message for the notification</p></div></div></article></div></div>"; // Customize this line
         warningDiv.style.display = "block"; // Show the warning div
       }
     }
