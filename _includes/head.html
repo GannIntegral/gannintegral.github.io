@@ -11,7 +11,7 @@
     {% unless site.hide_share_buttons %}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
     {% endunless %}
-    {% seo %}
+    {% seo title=false%}
     {% if site.feed %}
     {% feed_meta %}
     {% endif %}
@@ -19,5 +19,4 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
     {%- include head-scripts.html -%}
-    <meta name="title" content="{{ page.title }}">
 </head>
