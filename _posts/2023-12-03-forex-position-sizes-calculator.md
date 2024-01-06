@@ -27,7 +27,7 @@ tags: position-sizes-calculator forex-trading
 <p>Input your starting balance, the bedrock of your trading journey. This forms the basis for calculating risk across multiple trades.</p>
 
 ### 3. Risk Percentage: Balancing Act
-<p>Specify your risk tolerance as a percentage of your initial balance. This crucial step sets the stage for intelligent position sizing.</p>
+<p>Specify your risk tolerance as a percentage of your initial balance. This crucial step sets the stage for intelligent position sizing calculation.</p>
 
 ### 4. Stop Loss: Guarding Your Investments
 <p>Define your stop loss in pips. This acts as a safety net, limiting potential losses and safeguarding your capital.</p>
@@ -39,7 +39,7 @@ tags: position-sizes-calculator forex-trading
 <p>As you hit the 'Calculate' button, the Forex Risk Management Calculator works its magic:</p>
 
 <p><b>Smart Position Sizing:</b>
-The tool determines optimal lot sizes for each trade, aligning with your specified risk percentage and stop loss.</p>
+The calculator determines optimal lot sizes for each trade, aligning with your specified risk percentage and stop loss.</p>
 
 <p><b>Risk Reward Ratios:</b>
 Explore the potential gains as the calculator outlines the risk-reward relationship, targeting a 1:2 ratio for those successful trades that return to the initial price level.</p>
