@@ -4,8 +4,8 @@ title:  "What is FOREX Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Master Forex trading: strategies, risk management, and market navigation. Your key to success in the dynamic world of currency exchange. Dive in now!"
-image: 'https://www.daytrading.ltd/img/charting-example.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-1.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-1.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-0.jpg
 hero_height: is-large
 hero_darken: true
 published: true
