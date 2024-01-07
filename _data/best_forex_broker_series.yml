@@ -1,0 +1,12 @@
+title: Best Forex Broker Series
+description: This post is part of a series all about Bulma Clean Theme.
+sections:
+  - label: Based on Trading Condition
+    items:
+      - title: Why use a static site generator
+      - title: Getting started with Bulma Clean Theme for Jekyll
+  - label: Based on Trading Styles
+    items:
+      - title: Introducing some new layouts to Bulma Clean Theme
+      - title: Creating a docs site with Bulma Clean Theme
+      - title: Creating a post series
