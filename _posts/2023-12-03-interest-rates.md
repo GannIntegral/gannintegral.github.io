@@ -4,8 +4,8 @@ title:  "Interest Rates and Their Impact on Forex Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Explore the impact of interest rates on trading strategies. From forex to equities, learn how to navigate markets in a changing rate environment."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-20.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-19.jpg
 hero_height: is-large
 hero_darken: true
 published: true
