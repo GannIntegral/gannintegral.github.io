@@ -4,8 +4,8 @@ title:  "What is Leverage in FOREX Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Dive into the world of forex trading leverage—amplifying profits, managing risks, and navigating the dynamics for optimal outcomes."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-11.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-12.jpg
 hero_height: is-large
 hero_darken: true
 published: true
