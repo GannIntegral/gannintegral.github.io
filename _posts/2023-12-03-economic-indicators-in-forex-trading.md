@@ -4,8 +4,8 @@ title:  "Economic Indicators in Forex Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Navigate Forex with Confidence: Learn How Economic Indicators Shape FOREX Markets for Informed Trading Success."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-31.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-32.jpg
 hero_height: is-large
 hero_darken: true
 published: true
