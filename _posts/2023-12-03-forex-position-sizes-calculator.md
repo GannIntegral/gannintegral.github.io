@@ -4,8 +4,8 @@ title:  "Forex Position Sizes Calculator"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Optimize Forex trading with our Forex Position Sizes Calculator. Empower your strategy, master risk, and achieve consistent success in dynamic markets."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-25.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-26.jpg
 hero_height: is-large
 hero_darken: true
 published: true
