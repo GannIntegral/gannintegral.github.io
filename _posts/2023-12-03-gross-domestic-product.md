@@ -4,8 +4,8 @@ title:  "Gross Domestic Product and Their Impact on Forex Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Dive into the core of economic health with our article on Gross Domestic Product (GDP) – unraveling its calculation, significance, and limitations."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-21.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-22.jpg
 hero_height: is-large
 hero_darken: true
 published: true
