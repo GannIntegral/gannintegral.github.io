@@ -5,7 +5,7 @@ date:   2023-12-03 21:23:00
 categories: learning
 description: "Explore the dynamics of major currency pairs in forex trading, from EUR/USD to USD/JPY. Understand key factors influencing their movements."
 image: 'https://www.daytrading.ltd/img/charting-example-7.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+hero_image: https://www.daytrading.ltd/img/charting-example-8.jpg
 hero_height: is-large
 hero_darken: true
 published: true
