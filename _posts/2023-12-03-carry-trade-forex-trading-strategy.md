@@ -4,8 +4,8 @@ title:  "Carry Trade Forex Trading Strategy"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Master the carry trade forex trading strategy for profitable trading. Learn execution, risks, and historical performance. Your key to success."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-39.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-40.jpg
 hero_height: is-large
 hero_darken: true
 published: true
