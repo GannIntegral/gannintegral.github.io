@@ -4,7 +4,7 @@ title:  "Trend Following Trading Strategy"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Master trend following trading with strategies, tools, and advanced techniques in this comprehensive guide."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
+image: 'https://www.daytrading.ltd/img/charting-example-9.jpg'
 hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
 hero_darken: true
