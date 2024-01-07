@@ -4,8 +4,8 @@ title:  "How a Commitments of Traders (COT Report) works"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Navigate markets smarter with our COT Report guide. Decode trends, refine strategies, and make informed decisions for trading success. Explore now!"
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-35.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-36.jpg
 hero_height: is-large
 hero_darken: true
 published: true
