@@ -4,7 +4,7 @@ title:  "Bid and Ask Prices in FOREX Trading"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Dive into Forex trading nuances—discover bid/ask prices, grasp their impact on strategies. Navigate currency markets with precision and insight."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
+image: 'https://www.daytrading.ltd/img/charting-example-3.jpg'
 hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
 hero_darken: true
