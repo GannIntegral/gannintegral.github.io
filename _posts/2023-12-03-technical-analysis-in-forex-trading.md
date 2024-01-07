@@ -5,7 +5,7 @@ date:   2023-12-03 21:23:00
 categories: learning
 description: "Unlock the secrets of Technical Analysis in trading—explore trends, indicators, and strategies shaping informed decisions in financial markets."
 image: 'https://www.daytrading.ltd/img/charting-example-5.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+hero_image: https://www.daytrading.ltd/img/charting-example-6.jpg
 hero_height: is-large
 hero_darken: true
 published: true
