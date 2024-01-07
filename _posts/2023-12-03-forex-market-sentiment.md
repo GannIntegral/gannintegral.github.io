@@ -4,8 +4,8 @@ title:  "Understanding FOREX Market Sentiment"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Unlock Forex success: Explore market sentiment's impact on trading decisions, risk management, and trend identification in this comprehensive guide."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-27.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-28.jpg
 hero_height: is-large
 hero_darken: true
 published: true
