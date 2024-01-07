@@ -4,8 +4,8 @@ title:  "Understanding the Consumer Price Index (CPI)"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Explore the Consumer Price Index (CPI) – a vital economic gauge measuring inflation's impact on living costs and guiding financial decisions."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-33.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-34.jpg
 hero_height: is-large
 hero_darken: true
 published: true
