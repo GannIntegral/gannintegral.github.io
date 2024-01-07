@@ -4,8 +4,8 @@ title:  "Understanding the Purchasing Managers' Index (PMI)"
 date:   2023-12-03 21:23:00
 categories: learning
 description: "Dive into the world of Purchasing Managers' Index (PMI) – a key economic indicator shaping decisions in global markets and policies."
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-hero_image: https://www.csrhymes.com/img/landing-page.jpg
+image: 'https://www.daytrading.ltd/img/charting-example-15.jpg'
+hero_image: https://www.daytrading.ltd/img/charting-example-16.jpg
 hero_height: is-large
 hero_darken: true
 published: true
