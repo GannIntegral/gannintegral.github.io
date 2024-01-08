@@ -33,7 +33,8 @@ Market sentiment refers to the overall feeling or attitude of market participant
  **Fundamental Indicators** : Economic indicators, news releases, and geopolitical events play a crucial role in shaping sentiment. For instance, positive economic data may fuel bullish sentiment, while negative news can trigger bearish sentiment.
 
  **Sentiment Analysis Tools** : With advancements in technology, traders now utilize sentiment analysis tools and platforms that aggregate and analyze social media, news sentiment, and trader positioning data (COT report). 
- > Learn how to read <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT report</a> for your trading advantage.
+ > <strong>Related Article</strong> 
+ >><a href="https://www.daytrading.ltd/learning/commitments-of-traders">How a Commitments of Traders (COT Report) works</a>.
 
 ## The Role of News and Economic Indicators
 News and <a href="https://www.daytrading.ltd/learning/economic-indicators-in-forex-trading">economic indicators</a> have a profound impact on market sentiment. Economic releases such as GDP growth, <a href="https://www.daytrading.ltd/learning/employment-report">employment report</a>, and interest rate decisions can significantly influence traders' perceptions of the market. Major news events, geopolitical developments, and global economic trends create an ever-shifting landscape that traders must navigate. Case studies can illustrate how specific news events correlate with significant forex market movements.
