@@ -44,7 +44,7 @@ tags: economic-indicators forex-trading
 <p>Stay informed about economic calendars, which highlight scheduled releases of key indicators. Traders often plan their activities around these events to capitalize on potential market movements.</p></li>
 
 <li><strong>Risk Management:</strong>
-<p>Given the heightened volatility during economic releases, effective risk management is crucial. Setting stop-loss orders and managing position sizes using <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">position sizes calculator</a> tool can help mitigate potential losses.</p></li></ul>
+<p>Given the heightened volatility during economic releases, effective risk management is crucial. Setting stop-loss orders and managing lot size using <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">lot size calculator</a> tool can help mitigate potential losses.</p></li></ul>
 
 ## Conclusion
 <p>In the dynamic world of <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">forex trading</a>, understanding and interpreting economic indicators is essential. Traders who are well-versed in the impact of these indicators can make informed decisions, navigating the market with greater precision. Stay attuned to economic releases, employ sound risk management practices, and harness the power of economic indicators to enhance your forex <a href="https://www.daytrading.ltd/learning/best-forex-trading-strategy">best forex trading strategy</a>.</p>
