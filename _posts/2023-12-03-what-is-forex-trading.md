@@ -105,7 +105,7 @@ tags: forex-trading
 <p>Successful forex trading extends beyond analysis and strategy—it hinges on effective risk management. Recognizing and mitigating risks is paramount to preserving capital and sustaining long-term profitability. In this section, we'll delve into the fundamental principles of risk management.</p>
 
 <i>5.2 Position Sizing:</i>
-<p>Determining the appropriate size for a trading position is a critical aspect of risk management. Traders should <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">calculate position sizes</a> based on their risk tolerance and the potential impact on their trading capital. Setting a consistent percentage of capital at risk per trade helps control exposure.</p>
+<p>Determining the appropriate size for a trading position is a critical aspect of risk management. Traders should <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">calculate lot size</a> based on their risk tolerance and the potential impact on their trading capital. Setting a consistent percentage of capital at risk per trade helps control exposure.</p>
 
 <i>5.3 Setting Stop-Loss Orders:</i>
 <p>A cornerstone of risk management is the use of stop-loss orders. These predetermined exit points limit potential losses by automatically closing a trade when a specified price level is reached. Traders should carefully consider market conditions and volatility when setting stop-loss orders.</p>
