@@ -38,7 +38,7 @@ tags: trend-following trading-strategy forex-trading
 <p>Tailor your approach by selecting a timeframe aligned with your trading objectives. Short-term traders may focus on intraday charts, while those with a long-term perspective might prefer daily or weekly charts for a broader view.</p>
 
 <h3>3. Risk Management</h3>
-<p>Establishing a robust risk management plan is crucial for safeguarding your capital. This includes setting strategic stop-loss orders and determining position sizes using <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">position sizes calculator</a> that align with your risk tolerance and overall <a href="https://www.daytrading.ltd/learning/best-forex-trading-strategy">trading strategy</a>.</p>
+<p>Establishing a robust risk management plan is crucial for safeguarding your capital. This includes setting strategic stop-loss orders and determining lot sizes using <a href="https://www.daytrading.ltd/learning/forex-position-sizes-calculator">lot size calculator</a> that align with your risk tolerance and overall <a href="https://www.daytrading.ltd/learning/best-forex-trading-strategy">trading strategy</a>.</p>
 
 ## Tools and Indicators for Trend Trading
 <h3>1. Moving Averages</h3>
