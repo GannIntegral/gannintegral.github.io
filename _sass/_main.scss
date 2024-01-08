@@ -24,3 +24,13 @@ $hero-darken: $dark !default;
 p > a {
   text-decoration: underline;
 }
+
+.card-image {
+  text-align: center;
+  margin: auto;
+}
+
+.card-image img {
+  display: block;
+  margin: auto;
+}
