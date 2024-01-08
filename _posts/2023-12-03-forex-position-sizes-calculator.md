@@ -11,7 +11,7 @@ hero_darken: true
 published: true
 show_sidebar: false
 toc: true
-tags: position-sizes-calculator forex-trading
+tags: lot-size-calculator forex-trading
 #series: example_blog_series
 ---
 
