@@ -3,5 +3,5 @@
 - name: Trading Tools
   link: /#
   dropdown:
-    - name: Lot Sizes Calculator
+    - name: Lot Size Calculator
       link: /learning/forex-position-sizes-calculator
