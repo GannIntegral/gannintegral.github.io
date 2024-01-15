@@ -1,0 +1,18 @@
+title: Forex Trading Education Series
+#description: Don't know where to start from? Dive into the intricacies of the financial world with our comprehensive Forex Trading Education Series. Uncover the essentials of forex trading, from fundamental concepts to advanced strategies.
+sections:
+  - label: Introduction to Forex Trading for Beginners
+    items:
+      - title: What is FOREX Trading
+  - label: Fundamental Concepts for Novice Traders
+    items:
+      - title: Fundamental Analysis in FOREX Trading
+  - label: Technical Concepts for Intermediate Traders
+    items:
+      - title: Understanding Technical Analysis in Forex Trading
+  - label: Advanced Trading Tactics for Seasoned Traders
+    items:
+      - title: The Art of Chart Patterns in Forex Trading
+  - label: Risk Management and Psychology in Forex Trading
+    items:
+      - title: "Mastering Forex Trading: Effective Risk Management Strategies"

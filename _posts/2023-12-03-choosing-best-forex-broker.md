@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "A Guide to Choosing the Best Forex Broker for Beginners"
-date:   2023-12-03 21:23:00
+date:   2024-01-10 21:23:00
 categories: learning
 description: "Beginner guide: Choose the best forex broker with our guide. Tailored advice for your trading style. Optimize success with expert tips!"
-image: 'https://www.daytrading.ltd/img/charting-example-37.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-38.jpg
-hero_height: is-large
-hero_darken: true
+image: 'https://www.daytrading.ltd/img/charting-example-37.webp'
+#hero_image: https://www.daytrading.ltd/img/charting-example-38.jpg
+#hero_height: is-large
+#hero_darken: true
 published: true
 show_sidebar: false
 toc: true

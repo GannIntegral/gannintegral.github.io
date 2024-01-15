@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Best Forex Trading Strategy for Beginners"
-date:   2023-12-03 21:23:00
+date:   2024-01-10 21:23:00
 categories: learning
 description: "Unlock success in forex with our top strategies for beginners. Master the best forex trading strategy to boost profits effortlessly"
-image: 'https://www.daytrading.ltd/img/charting-example-41.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-42.jpg
-hero_height: is-large
-hero_darken: true
+image: 'https://www.daytrading.ltd/img/charting-example-41.webp'
+#hero_image: https://www.daytrading.ltd/img/charting-example-42.jpg
+#hero_height: is-large
+#hero_darken: true
 published: true
 show_sidebar: false
 toc: true

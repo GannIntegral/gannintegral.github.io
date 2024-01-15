@@ -1,7 +1,7 @@
 {% assign series = site.data.[page.series] %}
 {% assign posts = site.posts %}
 
-<p class="title is-5 is-spaced">{{ series.title }}</p>
+<h2 class="title is-5 is-spaced">{{ series.title }}</h2>
 
 {% if series.description %}
     <p>{{ series.description }}</p>
@@ -10,7 +10,7 @@
 {% for section in series.sections %}
 
 {% if section.label %}
-    <p class="title is-6">{{ section.label }}</p>
+    <h3 class="title is-6">{{ section.label }} :</h3>
 {% endif %}
 
 <ul class="block-list is-small is-outlined">

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "A Guide to Non-Farm Payroll Data"
-date:   2023-12-03 21:23:00
+title: "A Guide to Non-Farm Payroll Data"
+date: 2024-01-10 21:23:00
 categories: learning
 description: "Master Non-Farm Payroll trading strategies! Explore key insights and seize opportunities in financial markets with this comprehensive guide. #NFP"
-image: 'https://www.daytrading.ltd/img/charting-example-17.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-18.jpg
-hero_height: is-large
-hero_darken: true
+image: 'https://www.daytrading.ltd/img/charting-example-17.webp'
+#hero_image: https://www.daytrading.ltd/img/charting-example-18.jpg
+#hero_height: is-large
+#hero_darken: true
 published: true
 show_sidebar: false
 toc: true

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Major Currency Pairs in FOREX Trading"
-date:   2023-12-03 21:23:00
+title: "Major Currency Pairs in Forex Trading"
+date: 2024-01-10 21:23:00
 categories: learning
 description: "Explore the dynamics of major currency pairs in forex trading, from EUR/USD to USD/JPY. Understand key factors influencing their movements."
-image: 'https://www.daytrading.ltd/img/charting-example-7.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-8.jpg
-hero_height: is-large
-hero_darken: true
+image: 'https://www.daytrading.ltd/img/charting-example-7.webp'
+#hero_image: https://www.daytrading.ltd/img/charting-example-8.jpg
+#hero_height: is-large
+#hero_darken: true
 published: true
 show_sidebar: false
 toc: true
@@ -23,7 +23,7 @@ tags: forex-trading major-currency-pairs
 <strong>EUR/USD (Euro/US Dollar):</strong>
 
 <li>Represents the Eurozone and the United States.</li>
-<li>Influenced by <a href="https://www.daytrading.ltd/learning/economic-indicators-in-forex-trading">economic indicators</a>, monetary policies, and geopolitical events in both regions.</li><br>
+<li>Influenced by economic indicators, monetary policies, and geopolitical events in both regions.</li><br>
 
 <strong>USD/JPY (US Dollar/Japanese Yen):</strong>
 
@@ -60,7 +60,7 @@ tags: forex-trading major-currency-pairs
   
 <strong>Market Sentiment:</strong>
 
-<li>Movements in major pairs often reflect broader <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">market sentiment</a> and economic trends.</li><br>
+<li>Movements in major pairs often reflect broader market sentiment and economic trends.</li><br>
 
 <strong>Accessibility:</strong>
 
@@ -71,11 +71,11 @@ tags: forex-trading major-currency-pairs
 <ul>
 <strong>Interest Rates:</strong>
 
-<li>Central bank <a href="https://www.daytrading.ltd/learning/interest-rates">interest rate</a> decisions play a significant role in determining currency values.</li><br>
+<li>Central bank interest rate decisions play a significant role in determining currency values.</li><br>
 
 <strong>Economic Indicators:</strong>
 
-<li>Key economic data such as <a href="https://www.daytrading.ltd/learning/gross-domestic-product">Gross Domestic Product</a>, <a href="https://www.daytrading.ltd/learning/employment-report">employment reports</a>, and inflation figures impact currency pair movements.</li><br>
+<li>Key economic data such as Gross Domestic Product, employment reports, and inflation figures impact currency pair movements.</li><br>
 
 <strong>Geopolitical Events:</strong>
 

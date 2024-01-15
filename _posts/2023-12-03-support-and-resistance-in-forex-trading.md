@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Finding Support and Resistance in Forex Trading"
-date:   2023-12-03 21:23:00
+date:   2024-01-10 21:23:00
 categories: learning
 description: "Unlock the secrets of successful trading with our comprehensive guide on support and resistance strategies. Master market dynamics now!"
-image: 'https://www.daytrading.ltd/img/charting-example-14.jpg'
-hero_image: https://www.daytrading.ltd/img/charting-example-13.jpg
-hero_height: is-large
-hero_darken: true
+image: 'https://www.daytrading.ltd/img/charting-example-14.webp'
+#hero_image: https://www.daytrading.ltd/img/charting-example-13.jpg
+#hero_height: is-large
+#hero_darken: true
 published: true
 show_sidebar: false
 toc: true

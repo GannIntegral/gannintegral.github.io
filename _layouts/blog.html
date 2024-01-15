@@ -2,6 +2,9 @@
 layout: default
 show_sidebar: false
 ---
+{% if page.series %}
+    {% include series.html %}
+{% endif %}
 
 {{ content }}
 
