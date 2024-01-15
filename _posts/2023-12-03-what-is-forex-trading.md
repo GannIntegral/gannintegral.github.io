@@ -83,9 +83,10 @@ This section introduces the basics of technical analysis, candlestick patterns, 
 * It helps traders identify trends and potential entry/exit points.
 > <a href="https://www.daytrading.ltd/learning/decoding-market-trends-technical-analysis-guide">Mastering Technical Analysis: A Comprehensive Guide to Predicting Market Movements</a>
 
-Candlestick Patterns
+### Candlestick Patterns
 * Common patterns include doji, engulfing, and hammer.
 * Traders use these patterns to make predictions about future market movements.
+> <a href="https://www.daytrading.ltd/learning/mastering-candlestick-patterns-trading">Unveiling the Power of Candlestick Patterns in Forex Trading</a>
 
 <script type="application/ld+json">
 {
