@@ -95,7 +95,7 @@ This section introduces the basics of technical analysis, candlestick patterns, 
 * They help traders identify potential reversal or continuation points.
 > <a href="https://www.daytrading.ltd/learning/forex-trading-support-resistance-strategies">Unveiling the Dynamics of Forex Trading: Navigating Support and Resistance Levels</a>
 
-## Fundamental Analysis in Forex
+## Fundamental Analysis in Forex Trading
 **Digging Deeper: Fundamentals of Forex Trading**
 
 This section explores the role of fundamental analysis in forex trading, covering economic indicators and external factors.
