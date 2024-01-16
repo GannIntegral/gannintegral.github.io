@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is FOREX Trading"
-date: 2024-01-13 21:23:00
+date: 2024-01-15 21:23:00
 categories: learning
 description: "Master Forex trading: strategies, risk management, and market navigation. Your key to success in the dynamic world of currency exchange. Dive in now!"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -91,7 +91,7 @@ This section introduces the basics of technical analysis, candlestick patterns, 
 ### Support and Resistance
 * Support and resistance levels are key areas on a chart where price often reacts.
 * They help traders identify potential reversal or continuation points.
-> <a href="https://www.daytrading.ltd/learning/ggggg">hhhhhh</a>
+> <a href="https://www.daytrading.ltd/learning/forex-trading-support-resistance-strategies">Unveiling the Dynamics of Forex Trading: Navigating Support and Resistance Levels</a>
 
 <script type="application/ld+json">
 {
