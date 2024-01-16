@@ -100,9 +100,9 @@ This section introduces the basics of technical analysis, candlestick patterns, 
 
 This section explores the role of fundamental analysis in forex trading, covering economic indicators and external factors.
 
-###Understanding Fundamental Analysis
-*Fundamental analysis assesses a currency's intrinsic value based on economic indicators and external factors.
-*It complements technical analysis by providing a broader perspective.
+### Understanding Fundamental Analysis
+* Fundamental analysis assesses a currency's intrinsic value based on economic indicators and external factors.
+* It complements technical analysis by providing a broader perspective.
 
 <script type="application/ld+json">
 {
