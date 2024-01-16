@@ -88,6 +88,11 @@ This section introduces the basics of technical analysis, candlestick patterns, 
 * Traders use these patterns to make predictions about future market movements.
 > <a href="https://www.daytrading.ltd/learning/mastering-candlestick-patterns-trading">Unveiling the Power of Candlestick Patterns in Forex Trading</a>
 
+### Support and Resistance
+* Support and resistance levels are key areas on a chart where price often reacts.
+* They help traders identify potential reversal or continuation points.
+> <a href="https://www.daytrading.ltd/learning/ggggg">hhhhhh</a>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
