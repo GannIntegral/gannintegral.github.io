@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How a COT Report works"
-date:   2024-01-10 21:23:00
+date:   2024-01-16 21:23:00
 categories: learning
 description: "Navigate markets smarter with our COT Report guide. Decode trends, refine strategies, and make informed decisions for trading success. Explore now!"
 image: 'https://www.daytrading.ltd/img/charting-example-35.webp'
