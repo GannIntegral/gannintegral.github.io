@@ -16,8 +16,7 @@ tags: forex-trading
 ---
 
 ## Introduction to Forex Trading
-**Understanding Forex Trading: A Beginner's Guide**
-The foreign exchange (forex) market is a global marketplace where currencies are traded 24/5. This article introduces the basics of forex trading, including currency pairs and their significance in international trade and investment.
+The foreign currency exchange, known as the forex market, is a global marketplace where currencies are traded 24 hours a day for five business days. In this article, we will explain the basics of forex trading in a couple of sections.
 
 ### Forex Trading Defined
 * The forex trading facilitates the exchange of currencies worldwide.
