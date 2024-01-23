@@ -18,7 +18,7 @@ tags: forex-trading
 ## Introduction to Forex Trading
 The foreign currency exchange, known as the forex market, is a global marketplace where currencies are traded 24 hours a day for five business days.
 
-For a real-world example, imagine you want to travel from your country, let's say the United States of America, to Japan. In this situation, you need to convert your cash from USD to YEN at a nearby money changer. You are essentially selling dollars and buying yen at the given rates provided by the exchanger. These rates include the actual yen currency value plus some commission charged by the exchanger.
+For an offline forex trading example, imagine you want to travel from your country, let's say the United States of America, to Japan. In this situation, you need to convert your cash from USD to YEN at a nearby money changer. You are essentially selling dollars and buying yen at the given rates provided by the exchanger. These rates include the actual yen currency value plus some commission charged by the exchanger.
 
 If you find the given rates acceptable and are willing to buy the yen currencies at a specific amount of dollars, the transaction will be completed. Otherwise, you may choose to seek another exchanger offering lower rates.
 
