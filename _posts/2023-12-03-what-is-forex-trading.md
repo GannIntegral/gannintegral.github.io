@@ -22,7 +22,7 @@ For an offline forex trading example, imagine you want to travel from your count
 
 If you find the given rates acceptable and are willing to buy the yen currencies at a specific amount of dollars, the transaction will be completed. Otherwise, you may choose to seek another exchanger offering lower rates.
 
-In this article, we will delve into the basics of <strong>online forex trading</strong> in a couple of sections.
+For an <strong>online forex trading</strong>, everything is done electronically through broker's platform called as Electronic Communication Network (ECN). The transaction between you as broker's client and broker as your dealer is called as Over The Counter (OTC).
 
 ### Forex Trading Defined
 * The forex trading facilitates the exchange of currencies worldwide.
