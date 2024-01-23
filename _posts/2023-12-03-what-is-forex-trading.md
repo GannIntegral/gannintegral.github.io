@@ -16,7 +16,7 @@ tags: forex-trading
 ---
 
 ## Introduction to Forex Trading
-The foreign currency exchange, known as the forex market, is a global marketplace where currencies are traded 24 hours a day for five business days. In this article, we will explain the basics of forex trading in a couple of sections.
+The foreign currency exchange, known as the forex market, is a global marketplace where currencies are traded 24 hours a day for five business days. In real world example, you want to travel from your country let's say United States of America to Japan. So you want to convert your cash money from USD to YEN at money changer nearby. In this cituation, you selling dollar and buy yen at given rates by the exchanger. The given rates by the exchanger is the amount of real Yen currency rates plus some commission charged by the exchanger. If you found out the given rates is acceptable to you and you willing to buy the Yen currencies at some amount of Dollar, then the transaction will be done or else you will find another exchanger that offer lower rates. In this article, we will explain the basics of <strong>online forex trading</strong> in a couple of sections.
 
 ### Forex Trading Defined
 * The forex trading facilitates the exchange of currencies worldwide.
