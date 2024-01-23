@@ -22,7 +22,7 @@ For a real-world example, imagine you want to travel from your country, let's sa
 
 If you find the given rates acceptable and are willing to buy the yen currencies at a specific amount of dollars, the transaction will be completed. Otherwise, you may choose to seek another exchanger offering lower rates.
 
-In this article, we will delve into the basics of online forex trading in a couple of sections.
+In this article, we will delve into the basics of <strong>online forex trading</strong> in a couple of sections.
 
 ### Forex Trading Defined
 * The forex trading facilitates the exchange of currencies worldwide.
