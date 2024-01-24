@@ -3,7 +3,7 @@ layout: post
 title: "Beginner's Guide to What Forex Trading Is."
 date: 2024-01-15 21:23:00
 categories: learning
-description: "All you need to know about forex trading and how it can impact the world's economy."
+description: "All you need to know about forex trading with offline and online example and how it can impact the world's economy."
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
 #hero_image: https://www.daytrading.ltd/img/charting-example-0.webp
 #hero_height: is-large
