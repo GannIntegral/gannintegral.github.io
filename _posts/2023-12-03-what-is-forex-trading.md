@@ -24,6 +24,9 @@ If you find the given rates acceptable and are willing to buy the yen currencies
 
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over The Counter (OTC).
 
+### Forex Currency are Quote in Pairs
+
+
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two type. The first type called as Bid price and the second one is Ask price.
 
