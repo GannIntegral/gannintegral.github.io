@@ -56,7 +56,9 @@ Each currency in online forex trading are qouted in pairs that group in couple o
   19. NZDCAD
   20. CADCHF
   22. NZDCHF
-* Exotic forex pairs.
+* Exotic forex pairs:
+  1. USDMXN
+  2. SGDUSD
 
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
