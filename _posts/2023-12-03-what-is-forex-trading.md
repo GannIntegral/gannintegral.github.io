@@ -27,15 +27,32 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 ### Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in couple of category:
 * Major forex pairs:
-  1. EUR/USD
-  2. GBP/USD
-  3. AUD/USD
-  4. USD/JPY
-  5. USD/CAD
-  6. NZD/USD
-  7. USD/CHF
-  
-* Minor forex pairs.
+  1. EURUSD
+  2. GBPUSD
+  3. AUDUSD
+  4. USDJPY
+  5. USDCAD
+  6. NZDUSD
+  7. USDCHF
+* Minor forex pairs:
+  1. EURJPY
+  2. GBPJPY
+  3. AUDJPY
+  4. CADJPY
+  5. NZDJPY
+  6. CHFJPY
+  7. EURGBP
+  8. EURAUD
+  9. EURCAD
+  10. EURNZD
+  11. EURCHF
+  12. GBPAUD
+  13. GBPCAD
+  14. GBPNZD
+  15. GBPCHF
+  16. AUDCAD
+  17. AUDNZD
+  18. AUDCHF
 * Exotic forex pairs.
 
 ### Bid and Ask Prices
