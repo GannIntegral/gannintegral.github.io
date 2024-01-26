@@ -34,7 +34,7 @@ Each currency in online forex trading are qouted in pairs that group in couple o
   5. USDCAD
   6. NZDUSD
   7. USDCHF
-1. Minor forex pairs:
+2. Minor forex pairs:
   1. EURJPY
   2. GBPJPY
   3. AUDJPY
@@ -53,7 +53,7 @@ Each currency in online forex trading are qouted in pairs that group in couple o
   16. AUDCAD
   17. AUDNZD
   18. AUDCHF
-1. Exotic forex pairs.
+3. Exotic forex pairs.
 
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
