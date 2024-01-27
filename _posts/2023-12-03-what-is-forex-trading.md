@@ -30,12 +30,12 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   | |Symbol|       Currency         |
   |-|------|------------------------|
   |1|EURUSD|Euro vs United States Dollar |
-  |2|GBPUSD|Pound Sterling vs United States Dollar|
-  |3|AUDUSD|Australian Dollar vs United States Dollar|
-  |4|USDJPY|United States Dollar vs Japanese Yen|
-  |5|USDCAD|United States Dollar vs Canadian Dollar|
-  |6|NZDUSD|New Zealand Dollar vs United States Dollar
-  |7|USDCHF|United States Dollar vs Swiss Franc|
+  |2|GBPUSD|Pound Sterling vs United States Dollar |
+  |3|AUDUSD|Australian Dollar vs United States Dollar |
+  |4|USDJPY|United States Dollar vs Japanese Yen |
+  |5|USDCAD|United States Dollar vs Canadian Dollar |
+  |6|NZDUSD|New Zealand Dollar vs United States Dollar |
+  |7|USDCHF|United States Dollar vs Swiss Franc |
 
 * Minor forex pairs:
  |   | Symbol |        Currency        |
