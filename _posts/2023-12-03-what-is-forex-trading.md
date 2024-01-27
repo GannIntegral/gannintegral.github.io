@@ -26,6 +26,9 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 
 ### Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in three category:
+
+> Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
+
 #### Major forex pairs:
   <table>
   <thead>
@@ -195,95 +198,6 @@ When you do <strong>online forex trading</strong>, the currency rates offered in
 Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
 
 The differences between bid and ask price is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread and this tight spread can reduce your trading cost.
-
-### Currency Pairs in Forex Trading
-* Forex trading currencies are traded in pairs, with a base and a quote currency.
-* Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote.
-> <a href="https://www.daytrading.ltd/learning/currency-pairs-in-forex-trading">Understanding Currency Pairs in Forex Trading</a>
-
-### Market Significance
-* Forex trading plays a crucial role in determining exchange rates.
-* It influences global economic conditions and trade relationships.
-> <a href="https://www.daytrading.ltd/learning/forex-global-economic-trade-significance">The Significance of Forex Trading in Global Economics and Trade Relationships</a>
-
-## Key Concepts in Forex Trading
-**Essential Concepts in Forex Trading**
-This section delves into fundamental concepts of forex trading like currency pairs, exchange rates, and major vs. minor pairs.
-
-### Currency Pairs in Forex Trading Explained
-* Forex trading involves pairs, where one currency is traded for another.
-* Major pairs (e.g., EUR/USD) involve major world currencies; minor pairs include currencies from smaller economies.
-> <a href="https://www.daytrading.ltd/learning/forex-trading-guide-currency-pairs">Understanding Forex Trading: A Comprehensive Guide to Currency Pairs</a>
-
-### Understanding Exchange Rates in Forex Trading
-* Exchange rates determine the value of one currency against another.
-* Forex trading influenced by economic indicators, geopolitical events, and market sentiment.
-> <a href="https://www.daytrading.ltd/learning/factors-influencing-currency-values">Demystifying Exchange Rates: Factors Influencing Currency Values</a>
-
-### Major vs. Minor Pairs
-* Major pairs are highly traded and include major currencies like the US Dollar.
-* Minor pairs involve currencies from smaller economies and may have lower liquidity.
-> <a href="https://www.daytrading.ltd/learning/forex-major-minor-currency-pairs">Understanding Major and Minor Currency Pairs in Forex Trading</a>
->
-> <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major Currency Pairs in Forex Trading</a>
-
-## Forex Market Participants
-**Who Moves the Forex Market? Understanding Market Participants**
-
-This section explores the various participants in the forex market, from retail traders to central banks.
-
-### Retail Traders
-* Individuals participating in the forex market through online platforms.
-* Their collective actions influence daily market movements.
-> <a href="https://www.daytrading.ltd/learning/retail-traders-forex-impact">The Impact of Retail Traders: Unveiling the Dynamics in the Forex Market</a>
-
-### Institutional Investors
-* Large financial institutions, banks, and hedge funds participate in significant trades.
-* Their activities can impact overall market trends.
-> <a href="https://www.daytrading.ltd/learning/institutional-investors-market-impact">The Powerhouse Players: How Institutional Investors Shape Financial Markets</a>
-
-### Central Banks
-* Central banks play a crucial role in managing national currencies.
-* Their policies, including interest rate decisions, influence currency values.
-> <a href="https://www.daytrading.ltd/learning/central-banks-currency-influence">The Central Role of Central Banks: Navigating National Currencies</a>
-
-## Technical Analysis in Forex
-**Navigating the Forex Charts: A Guide to Technical Analysis**
-
-This section introduces the basics of technical analysis, candlestick patterns, and support/resistance levels.
-
-### Introduction to Technical Analysis
-* Technical analysis involves studying historical price data to predict future price movements.
-* It helps traders identify trends and potential entry/exit points.
-> <a href="https://www.daytrading.ltd/learning/decoding-market-trends-technical-analysis-guide">Mastering Technical Analysis: A Comprehensive Guide to Predicting Market Movements</a>
-
-### Candlestick Patterns
-* Common patterns include doji, engulfing, and hammer.
-* Traders use these patterns to make predictions about future market movements.
-> <a href="https://www.daytrading.ltd/learning/mastering-candlestick-patterns-trading">Unveiling the Power of Candlestick Patterns in Forex Trading</a>
-
-### Support and Resistance
-* Support and resistance levels are key areas on a chart where price often reacts.
-* They help traders identify potential reversal or continuation points.
-> <a href="https://www.daytrading.ltd/learning/forex-trading-support-resistance-strategies">Unveiling the Dynamics of Forex Trading: Navigating Support and Resistance Levels</a>
-
-## Fundamental Analysis in Forex Trading
-**Digging Deeper: Fundamentals of Forex Trading**
-
-This section explores the role of fundamental analysis in forex trading, covering economic indicators and external factors.
-
-### Understanding Fundamental Analysis
-* Fundamental analysis assesses a currency's intrinsic value based on economic indicators and external factors.
-* It complements technical analysis by providing a broader perspective.
-
-## Fundamental Analysis in Forex
-**Digging Deeper: Fundamentals of Forex Trading**
-
-This section explores the role of fundamental analysis in forex trading, covering economic indicators and external factors.
-
-### Understanding Fundamental Analysis
-* Fundamental analysis assesses a currency's intrinsic value based on economic indicators and external factors.
-* It complements technical analysis by providing a broader perspective.
 
 <script type="application/ld+json">
 {
