@@ -26,7 +26,7 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 
 ### Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in three category:
-* Major forex pairs:
+#### Major forex pairs:
   <table>
   <thead>
     <tr>
@@ -67,7 +67,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   </table>
 
 
-* Minor forex pairs:
+#### Minor forex pairs:
   <table>
   <thead>
     <tr>
@@ -164,7 +164,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   </table>
 
 
-* Exotic forex pairs:
+#### Exotic forex pairs:
   1. USDMXN
   2. SGDUSD
   3. USDNOK
