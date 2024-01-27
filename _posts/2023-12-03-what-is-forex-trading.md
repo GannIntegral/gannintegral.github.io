@@ -55,12 +55,13 @@ Each currency in online forex trading are qouted in pairs that group in three ca
  |13|GBPCAD|Pound Sterling vs Canadian Dollar    |
  |14|GBPNZD|Pound Sterling vs New Zealand Dollar |
  |15|GBPCHF|Pound Sterling vs Swiss Franc        |
-  16. AUDCAD
-  17. AUDNZD
-  18. AUDCHF
-  19. NZDCAD
-  20. CADCHF
-  22. NZDCHF
+ |16|AUDCAD|
+ |17|AUDNZD|
+ |18|AUDCHF|
+ |19|NZDCAD|
+ |20|CADCHF|
+ |22|NZDCHF|
+
 * Exotic forex pairs:
   1. USDMXN
   2. SGDUSD
