@@ -25,7 +25,7 @@ If you find the given rates acceptable and are willing to buy the yen currencies
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over The Counter (OTC).
 
 ### Forex Currency are Quote in Pairs
-Each currency in online forex trading are qouted in pairs that group in couple of category:
+Each currency in online forex trading are qouted in pairs that group in three category:
 * Major forex pairs:
   1. EURUSD
   2. GBPUSD
