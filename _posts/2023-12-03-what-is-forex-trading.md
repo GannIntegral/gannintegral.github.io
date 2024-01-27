@@ -27,8 +27,8 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 ### Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in three category:
 * Major forex pairs:
-  1. EURUSD
-  2. GBPUSD
+  |1|EURUSD|Euro vs American Dollar|
+  |2|GBPUSD|Pound vs American Dollar|
   3. AUDUSD
   4. USDJPY
   5. USDCAD
