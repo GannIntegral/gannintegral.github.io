@@ -59,6 +59,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 * Exotic forex pairs:
   1. USDMXN
   2. SGDUSD
+  3. USDNOK
 
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
