@@ -30,7 +30,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   |#|Symbol|       Currency         |
   |-|------|------------------------|
   |1|EURUSD|Euro vs United States Dollar |
-  |2|GBPUSD|British Pound vs United States Dollar|
+  |2|GBPUSD|Pound Sterling vs United States Dollar|
   |3|AUDUSD|Australian Dollar vs United States Dollar|
   |4|USDJPY|United States Dollar vs Japanese Yen|
   |5|USDCAD|United States Dollar vs Canadian Dollar|
