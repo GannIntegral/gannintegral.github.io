@@ -68,29 +68,101 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 
 * Minor forex pairs:
-  |   | Symbol |        Currency        |
-  | - | ------ | ---------------------- |
-  | 1 | EURJPY | Euro vs Japanese Yen   |
-  | 2 | GBPJPY | Pound Sterling vs Japanese Yen |
-  | 3 | AUDJPY | Australian Dollar vs Japanese Yen |
-  | 4 | CADJPY | Canadian Dollar vs Japanese Yen |
-  | 5 | NZDJPY | New Zealand Dollar vs Japanese Yen |
-  | 6 | CHFJPY | Swiss Franc vs Japanese Yen |
-  | 7 | EURGBP | Euro vs Pound Sterling |
-  | 8 | EURAUD | Euro vs Australian Dollar |
-  | 9 | EURCAD | Euro vs Canadian Dollar |
-  | 10| EURNZD | Euro vs New Zealand Dollar |
-  | 11| EURCHF | Euro vs Swiss Franc |
-  | 12| GBPAUD | Pound Sterling vs Australian Dollar |
-  | 13| GBPCAD | Pound Sterling vs Canadian Dollar |
-  | 14| GBPNZD | Pound Sterling vs New Zealand Dollar |
-  | 15| GBPCHF | Pound Sterling vs Swiss Franc |
-  | 16| AUDCAD | ddd |
-  | 17| AUDNZD | fff |
-  | 18| AUDCHF | tgg |
-  | 19| NZDCAD | ghgg |
-  | 20| CADCHF | fggg |
-  | 22| NZDCHF | hbbgg |
+  <table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Currency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EURJPY</td>
+      <td>Euro vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>GBPJPY</td>
+      <td>Pound Sterling vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>AUDJPY</td>
+      <td>Australian Dollar vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>CADJPY</td>
+      <td>Canadian Dollar vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>NZDJPY</td>
+      <td>New Zealand Dollar vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>CHFJPY</td>
+      <td>Swiss Franc vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>EURGBP</td>
+      <td>Euro vs Pound Sterling</td>
+    </tr>
+    <tr>
+      <td> EURAUD</td>
+      <td>Euro vs Australian Dollar</td>
+    </tr>
+    <tr>
+      <td>EURCAD</td>
+      <td>Euro vs Canadian Dollar</td>
+    </tr>
+    <tr>
+      <td>EURNZD</td>
+      <td>Euro vs New Zealand Dollar</td>
+    </tr>
+    <tr>
+      <td>EURCHF</td>
+      <td>Euro vs Swiss Franc</td>
+    </tr>
+    <tr>
+      <td>GBPAUD</td>
+      <td>Pound Sterling vs Australian Dollar</td>
+    </tr>
+    <tr>
+      <td>GBPCAD</td>
+      <td>Pound Sterling vs Canadian Dollar</td>
+    </tr>
+    <tr>
+      <td>GBPNZD</td>
+      <td>Pound Sterling vs New Zealand Dollar</td>
+    </tr>
+    <tr>
+      <td>GBPCHF</td>
+      <td>Pound Sterling vs Swiss Franc</td>
+    </tr>
+    <tr>
+      <td>AUDCAD</td>
+      <td>Australian Dollar vs Canadian Dollar</td>
+    </tr>
+    <tr>
+      <td>AUDNZD</td>
+      <td>Australian Dollar vs New Zealand Dollar</td>
+    </tr>
+    <tr>
+      <td>AUDCHF</td>
+      <td>Australian Dollar vs Swiss Franc</td>
+    </tr>
+    <tr>
+      <td>NZDCAD</td>
+      <td>New Zealand Dollar vs Canadian Dollar</td>
+    </tr>
+    <tr>
+      <td>CADCHF</td>
+      <td>Canadian Dollar vs Swiss Franc</td>
+    </tr>
+    <tr>
+      <td>NZDCHF</td>
+      <td>New Zealand Dollar vs Swiss Franc</td>
+    </tr>
+  </tbody>
+</table>
+
 
 * Exotic forex pairs:
   1. USDMXN
