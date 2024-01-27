@@ -36,6 +36,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   |5|USDCAD|United States Dollar vs Canadian Dollar|
   |6|NZDUSD|New Zealand Dollar vs United States Dollar
   |7|USDCHF|United States Dollar vs Swiss Franc|
+
 * Minor forex pairs:
  |# |Symbol|        Currency                     |
  |--|------|-------------------------------------|
