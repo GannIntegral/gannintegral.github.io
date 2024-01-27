@@ -64,7 +64,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
 
-Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. Please note that bid price is always above ask price due to retail price offered by your forex broker.
+Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. The differences between bid and ask price is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread and this tight spread can reduce your trading cost.
 
 ### Currency Pairs in Forex Trading
 * Forex trading currencies are traded in pairs, with a base and a quote currency.
