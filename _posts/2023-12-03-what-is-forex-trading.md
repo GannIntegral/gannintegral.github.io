@@ -64,7 +64,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
       <td>United States Dollar vs Swiss Franc</td>
     </tr>
   </tbody>
-</table>
+  </table>
 
 
 * Minor forex pairs:
@@ -161,7 +161,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
       <td>New Zealand Dollar vs Swiss Franc</td>
     </tr>
   </tbody>
-</table>
+  </table>
 
 
 * Exotic forex pairs:
