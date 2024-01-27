@@ -40,7 +40,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 * Minor forex pairs:
  |   | Symbol |        Currency        |
  | - | ------ | ---------------------- |
- | 1 | EURJPY | Euro vs Japanese Yen                 |
+ | 1 | EURJPY | Euro vs Japanese Yen   |
  | 2 | GBPJPY | Pound Sterling vs Japanese Yen       |
  | 3 | AUDJPY | Australian Dollar vs Japanese Yen    |
  | 4 | CADJPY | Canadian Dollar vs Japanese Yen      |
