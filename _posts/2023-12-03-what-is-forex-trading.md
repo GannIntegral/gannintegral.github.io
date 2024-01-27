@@ -37,23 +37,23 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   |6|NZDUSD|New Zealand Dollar vs United States Dollar
   |7|USDCHF|United States Dollar vs Swiss Franc|
 * Minor forex pairs:
- |#|Symbol|        Currency        |
- |-|------|------------------------|
- |1|EURJPY|Euro vs Japanese Yen    |
- |2|GBPJPY|Pound Sterling vs Japanese Yen|
- |3|AUDJPY|Australian Dollar vs Japanese Yen|
- |4|CADJPY|Canadian Dollar vs Japanese Yen|
- |5|NZDJPY|New Zealand Dollar vs Japanese Yen|
- |6|CHFJPY|Swiss Franc vs Japanese Yen|
- |7|EURGBP|Euro vs Pound Sterling|
- |8|EURAUD|Euro vs Australian Dollar|
- |9|EURCAD|Euro vs Canadian Dollar|
- |10|EURNZD|Euro vs New Zealand Dollar|
- |11|EURCHF|Euro vs Swiss Franc|
- |12|GBPAUD|Pound Sterling vs Australian Dollar|
- |13|GBPCAD|Pound Sterling vs Canadian Dollar|
+ |#|Symbol|        Currency                     |
+ |-|------|-------------------------------------|
+ |1|EURJPY|Euro vs Japanese Yen                 |
+ |2|GBPJPY|Pound Sterling vs Japanese Yen       |
+ |3|AUDJPY|Australian Dollar vs Japanese Yen    |
+ |4|CADJPY|Canadian Dollar vs Japanese Yen      |
+ |5|NZDJPY|New Zealand Dollar vs Japanese Yen   |
+ |6|CHFJPY|Swiss Franc vs Japanese Yen          |
+ |7|EURGBP|Euro vs Pound Sterling               |
+ |8|EURAUD|Euro vs Australian Dollar            |
+ |9|EURCAD|Euro vs Canadian Dollar              |
+ |10|EURNZD|Euro vs New Zealand Dollar          |
+ |11|EURCHF|Euro vs Swiss Franc                 |
+ |12|GBPAUD|Pound Sterling vs Australian Dollar |
+ |13|GBPCAD|Pound Sterling vs Canadian Dollar   |
  |14|GBPNZD|Pound Sterling vs New Zealand Dollar|
- |15|GBPCHF|Pound Sterling vs Swiss Franc|
+ |15|GBPCHF|Pound Sterling vs Swiss Franc       |
   16. AUDCAD
   17. AUDNZD
   18. AUDCHF
