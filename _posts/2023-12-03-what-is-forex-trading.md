@@ -27,7 +27,7 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 ### Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in three category:
 * Major forex pairs:
-  |#|Symbol|       Currency         |
+  | |Symbol|       Currency         |
   |-|------|------------------------|
   |1|EURUSD|Euro vs United States Dollar |
   |2|GBPUSD|Pound Sterling vs United States Dollar|
@@ -38,7 +38,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
   |7|USDCHF|United States Dollar vs Swiss Franc|
 
 * Minor forex pairs:
- |# |Symbol|        Currency                     |
+ |  |Symbol|        Currency                     |
  |--|------|-------------------------------------|
  |1 |EURJPY|Euro vs Japanese Yen                 |
  |2 |GBPJPY|Pound Sterling vs Japanese Yen       |
@@ -55,12 +55,12 @@ Each currency in online forex trading are qouted in pairs that group in three ca
  |13|GBPCAD|Pound Sterling vs Canadian Dollar    |
  |14|GBPNZD|Pound Sterling vs New Zealand Dollar |
  |15|GBPCHF|Pound Sterling vs Swiss Franc        |
- |16|AUDCAD|
- |17|AUDNZD|
- |18|AUDCHF|
- |19|NZDCAD|
- |20|CADCHF|
- |22|NZDCHF|
+ |16|AUDCAD|ddd|
+ |17|AUDNZD|fff|
+ |18|AUDCHF|tgg|
+ |19|NZDCAD|ghgg|
+ |20|CADCHF|fggg|
+ |22|NZDCHF|hbbgg|
 
 * Exotic forex pairs:
   1. USDMXN
