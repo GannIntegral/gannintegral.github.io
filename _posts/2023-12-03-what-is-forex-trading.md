@@ -29,13 +29,13 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 * Major forex pairs:
   |#|Symbol|       Currency         |
   |-|------|------------------------|
-  |1|EURUSD|Euro vs American Dollar |
-  |2|GBPUSD|British Pound vs American Dollar|
-  |3|AUDUSD|Aussie Dollar vs American Dollar|
-  4. USDJPY
-  5. USDCAD
-  6. NZDUSD
-  7. USDCHF
+  |1|EURUSD|Euro vs United States Dollar |
+  |2|GBPUSD|British Pound vs United States Dollar|
+  |3|AUDUSD|Australian Dollar vs United States Dollar|
+  |4|USDJPY|United States Dollar vs Japanese Yen|
+  |5|USDCAD|United States Dollar vs Canadian Dollar|
+  |6|NZDUSD|New Zealand Dollar vs United States Dollar
+  |7|USDCHF|United States Dollar vs Swiss Franc|
 * Minor forex pairs:
   1. EURJPY
   2. GBPJPY
