@@ -20,7 +20,7 @@ tags: forex-trading major-currency-pairs
 ## Major Currency Pairs
 <p>Major currency pairs in the forex market consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs are:
 
-  <table>
+<table>
   <thead>
     <tr>
       <th>Symbol</th>
@@ -57,7 +57,7 @@ tags: forex-trading major-currency-pairs
       <td>United States Dollar vs Swiss Franc</td>
     </tr>
   </tbody>
-  </table>
+</table>
 
 
 ## Significance of Major Currency Pairs
