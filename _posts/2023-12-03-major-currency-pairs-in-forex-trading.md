@@ -71,23 +71,18 @@ Major currency pairs are crucial in forex trading for several reasons:
  <strong>Accessibility:</strong>
  * Traders have easy access to information and analysis for major currency pairs, facilitating informed decision-making.
 
-<p>Factors Influencing Major Currency Pair Movements:</p>
-<ul>
-<strong>Interest Rates:</strong>
+## Factors Influencing Major Currency Pair Movements:
+ <strong>Interest Rates:</strong>
+ * Central bank interest rate decisions play a significant role in determining currency values.
 
-<li>Central bank interest rate decisions play a significant role in determining currency values.</li><br>
+ <strong>Economic Indicators:</strong>
+ * Key economic data such as Gross Domestic Product, employment reports, and inflation figures impact currency pair movements.
 
-<strong>Economic Indicators:</strong>
-
-<li>Key economic data such as Gross Domestic Product, employment reports, and inflation figures impact currency pair movements.</li><br>
-
-<strong>Geopolitical Events:</strong>
-
-<li>Political instability and geopolitical events can lead to significant fluctuations in major currency pairs.</li>
-</ul>
+ <strong>Geopolitical Events:</strong>
+ * Political instability and geopolitical events can lead to significant fluctuations in major currency pairs.
 
 ## Conclusion
-<p>Understanding major currency pairs is essential for any forex trader. By analyzing economic indicators, monitoring central bank policies, and staying informed about geopolitical events, traders can make more informed decisions in the dynamic world of forex trading. Always remember that the forex market is influenced by a multitude of factors, and staying informed is key to successful trading in major currency pairs.</p>
+Understanding major currency pairs is essential for any forex trader. By analyzing economic indicators, monitoring central bank policies, and staying informed about geopolitical events, traders can make more informed decisions in the dynamic world of forex trading. Always remember that the forex market is influenced by a multitude of factors, and staying informed is key to successful trading in major currency pairs.
 
 <script type="application/ld+json">
 {
