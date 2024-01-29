@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major Currency Pairs in Forex Trading"
-date: 2024-01-10 21:23:00
+date: 2024-01-28 21:23:00
 categories: learning
 description: "Explore the dynamics of major currency pairs in forex trading, from EUR/USD to USD/JPY. Understand key factors influencing their movements."
 image: 'https://www.daytrading.ltd/img/charting-example-7.webp'
