@@ -30,6 +30,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
 #### Major forex pairs:
+  <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded pairs in forex market. Due to its large volume traded compared to other pairs, its a actively traded amongs retail trader due to its liquidity.
   <table>
   <thead>
     <tr>
