@@ -197,7 +197,7 @@ When you do <strong>online forex trading</strong>, the currency rates offered in
 
 Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
 
-The differences between bid and ask price is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread and this tight spread can reduce your trading cost.
+The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
 <script type="application/ld+json">
 {
