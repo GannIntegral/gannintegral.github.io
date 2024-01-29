@@ -18,38 +18,47 @@ tags: forex-trading major-currency-pairs
 <p><a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>, also known as foreign exchange trading, is the global marketplace for buying and selling currencies. One of the key concepts in forex trading is the classification of currency pairs into major, minor, and exotic pairs. In this article, we'll focus on major currency pairs, exploring their characteristics, significance, and factors influencing their movements.</p>
 
 ## Major Currency Pairs
-<p>Major currency pairs in the forex market consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs are:</p>
-<ul>
-<strong>EUR/USD (Euro/US Dollar):</strong>
+<p>Major currency pairs in the forex market consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs are:
 
-<li>Represents the Eurozone and the United States.</li>
-<li>Influenced by economic indicators, monetary policies, and geopolitical events in both regions.</li><br>
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Currency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EURUSD</td>
+      <td>Euro vs United States Dollar</td>
+    </tr>
+    <tr>
+      <td>GBPUSD</td>
+      <td>Pound Sterling vs United States Dollar</td>
+    </tr>
+    <tr>
+      <td>AUDUSD</td>
+      <td>Australian Dollar vs United States Dollar</td>
+    </tr>
+    <tr>
+      <td>USDJPY</td>
+      <td>United States Dollar vs Japanese Yen</td>
+    </tr>
+    <tr>
+      <td>USDCAD</td>
+      <td>United States Dollar vs Canadian Dollar</td>
+    </tr>
+    <tr>
+      <td>NZDUSD</td>
+      <td>New Zealand Dollar vs United States Dollar</td>
+    </tr>
+    <tr>
+      <td>USDCHF</td>
+      <td>United States Dollar vs Swiss Franc</td>
+    </tr>
+  </tbody>
+</table>
 
-<strong>USD/JPY (US Dollar/Japanese Yen):</strong>
-
-<li>Reflects the economic dynamics between the United States and Japan.</li>
-<li>Affected by interest rates, economic data, and geopolitical tensions.</li><br>
-
-<strong>GBP/USD (British Pound/US Dollar):</strong>
-
-<li>Represents the United Kingdom and the United States.</li>
-<li>Influenced by economic indicators, Brexit developments, and monetary policies.</li><br>
-
-<strong>USD/CHF (US Dollar/Swiss Franc):</strong>
-
-<li>Reflects the economic relations between the United States and Switzerland.</li>
-<li>Affected by safe-haven demand, Swiss economic data, and global risk sentiment.</li><br>
-
-<strong>AUD/USD (Australian Dollar/US Dollar):</strong>
-
-<li>Represents Australia and the United States.</li>
-<li>Influenced by commodity prices, Australian economic performance, and global economic trends.</li><br>
-
-<strong>USD/CAD (US Dollar/Canadian Dollar):</strong>
-
-<li>Reflects the economic ties between the United States and Canada.</li>
-<li>Affected by oil prices, economic data from both countries, and geopolitical events.</li>
-</ul>
 
 ## Significance of Major Currency Pairs
 <p>Major currency pairs are crucial in forex trading for several reasons:</p>
