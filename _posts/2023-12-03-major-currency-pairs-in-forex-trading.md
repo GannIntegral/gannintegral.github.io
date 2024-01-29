@@ -60,7 +60,7 @@ tags: forex-trading major-currency-pairs
 </table>
 
 
-## Significance of Major Currency Pairs
+<h2>Significance of Major Currency Pairs</h2>
 Major currency pairs are crucial in forex trading for several reasons:
 
   <strong>Liquidity:</strong>
