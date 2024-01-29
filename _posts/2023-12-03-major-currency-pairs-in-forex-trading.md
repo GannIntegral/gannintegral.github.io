@@ -63,15 +63,15 @@ tags: forex-trading major-currency-pairs
 ## Significance of Major Currency Pairs
 Major currency pairs are crucial in forex trading for several reasons:
 
- * <strong>Liquidity:</strong>
+ <strong>Liquidity:</strong>
 
   * Major pairs are highly liquid, ensuring that traders can enter and exit positions with ease.
   
-<strong>Market Sentiment:</strong>
+ <strong>Market Sentiment:</strong>
 
   * Movements in major pairs often reflect broader market sentiment and economic trends.</li><br>
 
- * <strong>Accessibility:</strong>
+ <strong>Accessibility:</strong>
 
   * Traders have easy access to information and analysis for major currency pairs, facilitating informed decision-making.
 
