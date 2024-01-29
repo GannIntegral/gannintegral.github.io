@@ -31,45 +31,6 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 #### Major forex pairs:
   <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
-  <table>
-  <thead>
-    <tr>
-      <th>Symbol</th>
-      <th>Currency</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EURUSD</td>
-      <td>Euro vs United States Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPUSD</td>
-      <td>Pound Sterling vs United States Dollar</td>
-    </tr>
-    <tr>
-      <td>AUDUSD</td>
-      <td>Australian Dollar vs United States Dollar</td>
-    </tr>
-    <tr>
-      <td>USDJPY</td>
-      <td>United States Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>USDCAD</td>
-      <td>United States Dollar vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>NZDUSD</td>
-      <td>New Zealand Dollar vs United States Dollar</td>
-    </tr>
-    <tr>
-      <td>USDCHF</td>
-      <td>United States Dollar vs Swiss Franc</td>
-    </tr>
-  </tbody>
-  </table>
-
 
 #### Minor forex pairs:
   <table>
