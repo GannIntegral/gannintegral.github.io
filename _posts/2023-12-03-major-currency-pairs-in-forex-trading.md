@@ -69,7 +69,7 @@ Major currency pairs are crucial in forex trading for several reasons:
   
  <strong>Market Sentiment:</strong>
 
-  * Movements in major pairs often reflect broader market sentiment and economic trends.</li><br>
+  * Movements in major pairs often reflect broader market sentiment and economic trends.
 
  <strong>Accessibility:</strong>
 
