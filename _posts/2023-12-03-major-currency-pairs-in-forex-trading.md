@@ -15,10 +15,10 @@ tags: forex-trading major-currency-pairs
 #series: example_blog_series
 ---
 
-<p><a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>, also known as foreign exchange trading, is the global marketplace for buying and selling currencies. One of the key concepts in forex trading is the classification of currency pairs into major, minor, and exotic pairs. In this article, we'll focus on major currency pairs, exploring their characteristics, significance, and factors influencing their movements.</p>
+<a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>, also known as foreign exchange trading, is the global marketplace for buying and selling currencies. One of the key concepts in forex trading is the classification of currency pairs into major, minor, and exotic pairs. In this article, we'll focus on major currency pairs, exploring their characteristics, significance, and factors influencing their movements.
 
 ## Major Currency Pairs
-<p>Major currency pairs in the forex market consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs are:
+Major currency pairs in the forex market consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs are:
 
 <table>
   <thead>
@@ -59,18 +59,17 @@ tags: forex-trading major-currency-pairs
   </tbody>
 </table>
 
-
-<h2>Significance of Major Currency Pairs</h2>
+## Significance of Major Currency Pairs
 Major currency pairs are crucial in forex trading for several reasons:
 
-  <strong>Liquidity:</strong>
-  * Major pairs are highly liquid, ensuring that traders can enter and exit positions with ease.
+ <strong>Liquidity:</strong>
+ * Major pairs are highly liquid, ensuring that traders can enter and exit positions with ease.
   
-  <strong>Market Sentiment:</strong>
-  * Movements in major pairs often reflect broader market sentiment and economic trends.
+ <strong>Market Sentiment:</strong>
+ * Movements in major pairs often reflect broader market sentiment and economic trends.
 
-  <strong>Accessibility:</strong>
-  * Traders have easy access to information and analysis for major currency pairs, facilitating informed decision-making.
+ <strong>Accessibility:</strong>
+ * Traders have easy access to information and analysis for major currency pairs, facilitating informed decision-making.
 
 <p>Factors Influencing Major Currency Pair Movements:</p>
 <ul>
