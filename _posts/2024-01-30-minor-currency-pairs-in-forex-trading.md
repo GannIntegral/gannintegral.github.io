@@ -18,7 +18,7 @@ tags: forex-trading major-currency-pairs trend-following-trading-strategy
 <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>, also known as foreign exchange trading, is the global marketplace for buying and selling currencies. One of the key concepts in forex trading is the classification of currency pairs into major, minor, and exotic pairs. In this article, we'll focus on minor currency pairs, exploring their characteristics, significance, and factors influencing their movements.
 
 ## Minor Currency Pairs
-Minor currency pairs in the forex market consist of the second most widely traded currencies globally after <strong>major pairs forex</strong> currency. These pairs involve the mixed of major currency other than US Dollar (USD). They are:
+Minor currency pairs in the forex market consist of the second most widely traded currencies globally after <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">major pairs forex</a> currency. These pairs involve the mixed of major currency other than US Dollar (USD). They are:
 
 <table>
   <thead>
