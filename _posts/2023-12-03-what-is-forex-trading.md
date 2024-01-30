@@ -29,107 +29,11 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
-#### Major forex pairs:
+ * Major forex pairs:
   <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
 
-#### Minor forex pairs:
-  <table>
-  <thead>
-    <tr>
-      <th>Symbol</th>
-      <th>Currency</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EURJPY</td>
-      <td>Euro vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>GBPJPY</td>
-      <td>Pound Sterling vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>AUDJPY</td>
-      <td>Australian Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>CADJPY</td>
-      <td>Canadian Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>NZDJPY</td>
-      <td>New Zealand Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>CHFJPY</td>
-      <td>Swiss Franc vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>EURGBP</td>
-      <td>Euro vs Pound Sterling</td>
-    </tr>
-    <tr>
-      <td> EURAUD</td>
-      <td>Euro vs Australian Dollar</td>
-    </tr>
-    <tr>
-      <td>EURCAD</td>
-      <td>Euro vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>EURNZD</td>
-      <td>Euro vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>EURCHF</td>
-      <td>Euro vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>GBPAUD</td>
-      <td>Pound Sterling vs Australian Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPCAD</td>
-      <td>Pound Sterling vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPNZD</td>
-      <td>Pound Sterling vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPCHF</td>
-      <td>Pound Sterling vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>AUDCAD</td>
-      <td>Australian Dollar vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>AUDNZD</td>
-      <td>Australian Dollar vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>AUDCHF</td>
-      <td>Australian Dollar vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>NZDCAD</td>
-      <td>New Zealand Dollar vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>CADCHF</td>
-      <td>Canadian Dollar vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>NZDCHF</td>
-      <td>New Zealand Dollar vs Swiss Franc</td>
-    </tr>
-  </tbody>
-  </table>
-
-
-#### Exotic forex pairs:
+ * Minor forex pairs:
+ * Exotic forex pairs:
   <table>
   <thead>
     <tr>
