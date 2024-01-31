@@ -34,6 +34,9 @@ Each currency in online forex trading are qouted in pairs that group in three ca
    <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
 
  * Minor forex pairs:
+
+  Minor forex pairs have lesser volume traded that make it less volatile compared to major forex pairs. This makes their spread a bit wider and not suitable for scalping trading strategy. Usually, long term traders choosed to trade this pairs becaused of its nature fits thier trend following trading strategy.
+
  * Exotic forex pairs:
   <table>
   <thead>
