@@ -26,90 +26,18 @@ Exotic currency pairs is the lowest volume currency pair traded in forex market 
   </thead>
   <tbody>
     <tr>
-      <td>EURJPY</td>
-      <td>Euro vs Japanese Yen</td>
+      <td>USDMXN</td>
+      <td>United States Dollar vs Mexican Peso</td>
     </tr>
     <tr>
-      <td>GBPJPY</td>
-      <td>Pound Sterling vs Japanese Yen</td>
+      <td>SGDUSD</td>
+      <td>Singapore Dollar vs United States Dollar</td>
     </tr>
     <tr>
-      <td>AUDJPY</td>
-      <td>Australian Dollar vs Japanese Yen</td>
+      <td>USDNOK</td>
+      <td>United States Dollar vs Norwegian Krone</td>
     </tr>
-    <tr>
-      <td>CADJPY</td>
-      <td>Canadian Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>NZDJPY</td>
-      <td>New Zealand Dollar vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>CHFJPY</td>
-      <td>Swiss Franc vs Japanese Yen</td>
-    </tr>
-    <tr>
-      <td>EURGBP</td>
-      <td>Euro vs Pound Sterling</td>
-    </tr>
-    <tr>
-      <td> EURAUD</td>
-      <td>Euro vs Australian Dollar</td>
-    </tr>
-    <tr>
-      <td>EURCAD</td>
-      <td>Euro vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>EURNZD</td>
-      <td>Euro vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>EURCHF</td>
-      <td>Euro vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>GBPAUD</td>
-      <td>Pound Sterling vs Australian Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPCAD</td>
-      <td>Pound Sterling vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPNZD</td>
-      <td>Pound Sterling vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>GBPCHF</td>
-      <td>Pound Sterling vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>AUDCAD</td>
-      <td>Australian Dollar vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>AUDNZD</td>
-      <td>Australian Dollar vs New Zealand Dollar</td>
-    </tr>
-    <tr>
-      <td>AUDCHF</td>
-      <td>Australian Dollar vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>NZDCAD</td>
-      <td>New Zealand Dollar vs Canadian Dollar</td>
-    </tr>
-    <tr>
-      <td>CADCHF</td>
-      <td>Canadian Dollar vs Swiss Franc</td>
-    </tr>
-    <tr>
-      <td>NZDCHF</td>
-      <td>New Zealand Dollar vs Swiss Franc</td>
-    </tr>
-    </tbody>
+  </tbody>
   </table>
 
 ## Significance of Minor Currency Pairs
