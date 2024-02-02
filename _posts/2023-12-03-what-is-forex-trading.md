@@ -37,30 +37,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
    Minor forex pairs have lower trading volumes, making them less volatile compared to major forex pairs. This results in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
- * Exotic forex pairs:
-  <table>
-  <thead>
-    <tr>
-      <th>Symbol</th>
-      <th>Currency</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>USDMXN</td>
-      <td>United States Dollar vs Mexican Peso</td>
-    </tr>
-    <tr>
-      <td>SGDUSD</td>
-      <td>Singapore Dollar vs United States Dollar</td>
-    </tr>
-    <tr>
-      <td>USDNOK</td>
-      <td>United States Dollar vs Norwegian Krone</td>
-    </tr>
-  </tbody>
-  </table>
-
+ * Exotic forex pairs.
 
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
