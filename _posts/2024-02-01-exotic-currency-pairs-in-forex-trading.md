@@ -15,7 +15,7 @@ tags: forex-trading exotic-currency-pairs trend-following-trading-strategy
 #series: example_blog_series
 ---
 
-Exotic currency pairs is the lowest volume currency pair traded in forex market that making them less liquidity. Their spread are larger compared to major pairs forex currency and minor pairs forex currency. Exotic currency pairs listed below:
+Exotic currency pairs is the lowest volume currency pair traded in forex market that making them less liquidity. Their spread are larger compared to <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">major pairs forex</a> currency and minor pairs forex currency. Exotic currency pairs listed below:
 
 <table>
   <thead>
@@ -67,7 +67,7 @@ Factors Influencing Minor Currency Pair Movements:
 Understanding minor currency pairs is essential for any forex trader. By analyzing economic indicators, monitoring central bank policies, and staying informed about geopolitical events, traders can make more informed decisions in the dynamic world of forex trading. Always remember that the forex market is influenced by a multitude of factors, and staying informed is key to successful trading in minor currency pairs.
 
 > <strong>Related Article</strong><br>
-> <a href="https://www.daytrading.ltd/learning/minor-currency-pairs-in-forex-trading">Exotic Currency Pairs in Forex Trading</a>
+> <a href="https://www.daytrading.ltd/learning/minor-currency-pairs-in-forex-trading">Minor Currency Pairs in Forex Trading</a>
 
 <script type="application/ld+json">
 {
