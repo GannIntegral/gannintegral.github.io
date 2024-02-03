@@ -40,6 +40,9 @@ Exotic currency pairs is the lowest volume currency pair traded in forex market 
   </tbody>
   </table>
 
+## How To Trade Exotic Pairs
+Even exotic pairs spread large to scalpers, but not for other type trader. Usually, experienced trader applied <a href="https://www.daytrading.ltd/learning/carry-trade-forex-strategy">carry trade forex strategy</a> to this pairs and yes! They did make handsome money out of it.
+
 ## Significance of Minor Currency Pairs
 Minor currency pairs are crucial in forex trading for several reasons:
 
