@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exotic Currency Pairs for Trend Following Trading Strategy"
-date: 2024-02-01 01:23:00
+date: 2024-02-02 01:23:00
 categories: learning
 description: "Claim your profit by exploring exotic currency pairs to enhance your trend following trading strategy"
 image: 'https://www.daytrading.ltd/img/charting-example-7.webp'
