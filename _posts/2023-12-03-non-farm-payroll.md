@@ -45,7 +45,7 @@ NFP data influences <a href="https://www.daytrading.ltd/learning/forex-market-se
 <p>Equity traders should pay attention to NFP data, as it affects investor confidence and can lead to price swings in stocks and indices. This information is valuable for adjusting equity portfolios.</p></li>
 
 <li><strong>Interest Rate Expectations:</strong>
-<p>The Federal Reserve closely watches NFP data when formulating monetary policy. Traders can anticipate <a href="https://www.daytrading.ltd/learning/interest-rates">interest rate</a> changes and adjust their strategies accordingly.</p></li>
+<p>The Federal Reserve closely watches NFP data when formulating monetary policy. Traders can anticipate <a href="https://www.daytrading.ltd/learning/interest-rates">interest rates</a> changes and adjust their strategies accordingly.</p></li>
 </ul>
 
 ## Conclusion
