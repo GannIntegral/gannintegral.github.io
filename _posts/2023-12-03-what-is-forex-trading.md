@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beginner's Guide to What Forex Trading Is."
-date: 2024-01-28 21:23:00
+date: 2024-02-05 21:23:00
 categories: learning
 description: "All you need to know about forex trading with offline and online example and how it can impact the world's economy."
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -37,7 +37,17 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
    Minor forex pairs have lower trading volumes, making them less volatile compared to major forex pairs. This results in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
- * Exotic forex pairs.
+ * Exotic forex pairs:
+
+   Exotic forex pair is the widest spread among forex currency pairs and retail trader that dont have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+   <strong>Pros</strong>
+   * Less speculation.
+   * Best suitable for trend trading strategy especially for those who focus on carry trade trading strategy.
+
+   <strong>Cons</strong>
+   * Widest mostly on major economic news release and weekend spread.
+   * Low liquidity to apply scalping trading strategy.
+   * Aggressive slippage.
 
 ### Bid and Ask Prices
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
