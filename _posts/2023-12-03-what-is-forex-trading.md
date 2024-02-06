@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Beginner's Guide to What Forex Trading Is."
+title: "What is Forex Trading and How Does it Work"
 date: 2024-02-05 21:23:00
 categories: learning
-description: "All you need to know about forex trading with offline and online example and how it can impact the world's economy."
+description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
 #hero_image: https://www.daytrading.ltd/img/charting-example-0.webp
 #hero_height: is-large
@@ -11,7 +11,7 @@ image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
 published: true
 show_sidebar: false
 toc: true
-tags: forex-trading
+tags: what-is-forex-trading forex-trading
 #series : forex_trading_edu_series
 ---
 
