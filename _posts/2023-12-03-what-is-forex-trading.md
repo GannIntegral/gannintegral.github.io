@@ -64,6 +64,7 @@ In order to make money by trading forex, you need to learn some besic technical 
   * Breakout Trading Strategy.
   * Carry Trade Trading Strategy.
   * Scalping Trading Strategy.
+  * COT Report Trading Strategy.
 
 <script type="application/ld+json">
 {
