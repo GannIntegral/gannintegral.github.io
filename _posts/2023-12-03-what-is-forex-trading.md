@@ -57,6 +57,14 @@ Bid price is the best available price offered by your forex broker when you want
 
 The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
+## Trading Strategies
+In order to make money by trading forex, you need to learn some besic technical and fundamental analysis. By understand technical and fundamental analysis, you can create you own trading strategy or use existing trading strategy that suits your lifestyle to secured capital and maximize your potential profits. Most popular trading strategy are:
+
+  * Trend Following Trading Strategy.
+  * Breakout Trading Strategy.
+  * Carry Trade Trading Strategy.
+  * Scalping Trading Strategy.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
