@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Trade With Institutionals Using COT Report Trading Strategy"
-date:   2024-01-16 21:23:00
+date:   2024-02-05 21:23:00
 categories: learning
-description: "Get inform trading desicions and secured your potential by knowing large institutionals open positions"
+description: "Get inform trading desicions using this COT Report Trading Strategy to secured your potential by knowing large institutionals open positions "
 image: 'https://www.daytrading.ltd/img/charting-example-35.webp'
 #hero_image: https://www.daytrading.ltd/img/charting-example-36.jpg
 #hero_height: is-large
