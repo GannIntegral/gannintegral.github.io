@@ -60,6 +60,9 @@ The differences between <strong>bid and ask price</strong> is called as spread. 
 ## Trading Strategies
 In order to make money by trading forex, you need to learn some besic technical and fundamental analysis. By understand technical and fundamental analysis, you can create you own trading strategy or use existing trading strategy that suits your lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
 
+## Choosing the Best Forex Broker
+When you trade forex online, you want to deal with a reputable CFD broker that provides segregated funds, allowing you to focus most of your time on finding trading opportunities. Therefore, you must know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,7 +73,7 @@ In order to make money by trading forex, you need to learn some besic technical 
       "name": "What is Forex Trading?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Forex trading involves the exchange of currencies on the global market. It is the largest and most liquid financial market where traders buy and sell currencies to profit from fluctuations in exchange rates."
+        "text": "Forex trading is where trader buying and selling currencies online."
       }
     },
     {
