@@ -58,7 +58,7 @@ Bid price is the best available price offered by your forex broker when you want
 The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
 ## Trading Strategies
-In order to make money by trading forex, you need to learn some basic technical and fundamental analysis. By understand technical and fundamental analysis, you can create you own trading strategy or use existing trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
+In order to make money by trading forex, you need to learn technical analysis and fundamental analysis. By understand technical and fundamental analysis, you can create you own trading strategy or use existing trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
 
 ## Choosing the Best Forex Broker
 When you trade forex online, you want to deal with a reputable CFD broker that provides segregated funds, allowing you to focus most of your time on finding trading opportunities. Therefore, you must know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
