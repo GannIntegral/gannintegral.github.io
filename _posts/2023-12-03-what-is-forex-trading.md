@@ -59,6 +59,7 @@ The differences between <strong>bid and ask price</strong> is called as spread. 
 
 ## What is Technical Analysis?
 Technical analysis is one of method that trader use to make transaction in forex market. By knowing this knowledge, trader can time their market entry and exits when needed. Let me list most method used by forex traders for you:
+
   * Support and Resistance
     Last known lowest price considered as support level and last known highest price considered as resistance level. To know if you are in down trend market, you need to see if price is breaking last nearest low price and respecting last high price. It is better if you referring higher timeframe such as D1/Daily as your compass and use H1/Hourly timeframe for trend reference either its a trend continuation, reversal or sideways.
 
