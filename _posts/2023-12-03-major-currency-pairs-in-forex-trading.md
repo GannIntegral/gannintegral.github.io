@@ -15,7 +15,7 @@ tags: forex-trading major-pairs-forex
 #series: example_blog_series
 ---
 
-In this article, I'm explaining more deeply about major pairs in forex currency. But if you don't know where to start, I've already created an article explaining "<a href="https://www.daytrading.ltd/learning/what-is-forex-trading">what is forex trading</a>" in a previous post.
+In this article, I'm explaining more deeply about major pairs in forex currency. But if you don't know where to start, I've already created an article explaining '<a href="https://www.daytrading.ltd/learning/what-is-forex-trading">What is Forex Trading and How Does it Work</a>' in a previous post.
 
 Major pairs forex currency consist of the most widely traded currencies globally. These pairs involve the US Dollar (USD) and another major currency. The primary major currency pairs in forex trading are:
 
