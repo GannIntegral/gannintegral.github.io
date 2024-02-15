@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Empower Your Forex Journey with Day Trading Ltd
 
-Welcome to Day Trading Ltd, your ultimate resource for mastering <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">Forex trading</a>. Explore proven strategies, refine risk management skills, and confidently navigate dynamic markets. Your comprehensive guide to achieving success in currency exchange starts here. Stay updated with our latest insights and expert analyses for informed and strategic trading decisions. Start your journey to financial mastery with Day Trading Ltd.
+Welcome to Day Trading Ltd, your ultimate resource for mastering Forex trading. Explore proven strategies, refine risk management skills, and confidently navigate dynamic markets. Your comprehensive guide to achieving success in currency exchange starts here. Stay updated with our latest insights and expert analyses for informed and strategic trading decisions. Start your journey to financial mastery with Day Trading Ltd.
 
 <p class="title is-4">Latest Posts</p>
 
