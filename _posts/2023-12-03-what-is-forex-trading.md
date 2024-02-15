@@ -58,11 +58,11 @@ Bid price is the best available price offered by your forex broker when you want
 The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
 ## What is Technical Analysis?
-Technical analysis is one of method that trader use to make transaction in forex market. By knowing this knowledge, trader can time their market entry and exits when needed. Let me list most method used by forex traders for you:
+Technical analysis is one method that traders use to make transactions in the forex market. By having this knowledge, traders can time their market entries and exits as needed. Let me list the most commonly used methods by forex traders for you:
 
   * Support and Resistance
 
-    Last known lowest price considered as support level and last known highest price considered as resistance level. To know if you are in down trend market, you need to see if price is breaking last nearest low price and respecting last high price. It is better if you referring higher timeframe such as D1/Daily as your compass and use H1/Hourly timeframe for trend reference either its a trend continuation, reversal or sideways.
+    The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
 
   * Trend lines
   * Indicators
