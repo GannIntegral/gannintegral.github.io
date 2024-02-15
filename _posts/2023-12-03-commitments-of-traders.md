@@ -15,7 +15,7 @@ tags: cot-report-trading-strategy
 #series: example_blog_series
 ---
 
-This article is a sub-article of "what is forex trading and how does it work". 
+In my previous post titled '<a href="https://www.daytrading.ltd/learning/what-is-forex-trading">What is Forex Trading and How Does It Work</a>', I explained the forex market microstructure and some core topics that you can use to start your forex trading journey. In this article, we delve deeper into the COT report trading strategy.
 
 <p>The Commitments of Traders commonly known as <strong>COT Report</strong> is a dynamic and influential tool within financial markets, offering valuable insights into the positioning of diverse market participants. Traders and investors frequently turn to the COT Report Trading Strategy as their compass for navigating <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">market sentiment</a> and making well-informed decisions. In this comprehensive exploration, we will delve into the intricacies of the COT Report, unraveling its significance, detailing how to interpret its data, and examining its profound impact on various trading strategies.</p>
 
