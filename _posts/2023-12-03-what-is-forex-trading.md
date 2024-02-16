@@ -61,7 +61,7 @@ The differences between <strong>bid and ask price</strong> is called as spread. 
 
 If you look at a forex chart, you might wonder how to determine if the price is going up or down. Here, technical analysis comes into play!
 
-Technical analysis is a method used by traders to make transactions in the forex market. With this knowledge, traders can time their market entries and exits as needed. Let me list the most commonly used methods by forex traders for you:
+Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used methods by forex traders for you:
 
   * <strong>Support and Resistance</strong>
 
