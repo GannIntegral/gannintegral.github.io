@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-14 21:23:00
+date: 2024-02-15 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -58,7 +58,10 @@ Bid price is the best available price offered by your forex broker when you want
 The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
 ## What is Technical Analysis?
-Technical analysis is one method that traders use to make transactions in the forex market. By having this knowledge, traders can time their market entries and exits as needed. Let me list the most commonly used methods by forex traders for you:
+
+If you look at a forex chart, you might wonder how to determine if the price is going up or down. Here, technical analysis comes into play!
+
+Technical analysis is a method used by traders to make transactions in the forex market. With this knowledge, traders can time their market entries and exits as needed. Let me list the most commonly used methods by forex traders for you:
 
   * <strong>Support and Resistance</strong>
 
