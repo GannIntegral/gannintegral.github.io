@@ -50,7 +50,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
    * Low liquidity to apply scalping trading strategy.
    * Aggressive slippage.
 
-### Bid and Ask Prices
+### Bid and Ask in Forex Trading
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
 
 Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
