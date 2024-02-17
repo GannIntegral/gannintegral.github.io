@@ -71,6 +71,7 @@ Technical analysis is one of the methods used by traders to predict the forex ma
 
   * Trend lines
   * Indicators
+  * Chart Patterns
 
 ## What is Fundamental Analysis?
 Fundamental is a method used by trader by analyzing market economics data.
