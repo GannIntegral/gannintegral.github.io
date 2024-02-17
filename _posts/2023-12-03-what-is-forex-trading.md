@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-15 21:23:00
+date: 2024-02-16 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -76,7 +76,7 @@ Technical analysis is one of the methods used by traders to predict the forex ma
 ## What is Fundamental Analysis?
 Fundamental is a method used by trader by analyzing market economics data.
 
-## Trading Strategies
+## Forex Trading Strategy
 Once you understand technical and fundamental analysis, you can create you own trading strategy or use popular trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
 
 ## Choosing the Best Forex Broker
