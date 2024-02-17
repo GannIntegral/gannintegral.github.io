@@ -65,6 +65,8 @@ Technical analysis is one of the methods used by traders to predict the forex ma
 
   * <strong>Support and Resistance</strong>
 
+    <img src="https://www.daytrading.ltd/img/support-and-resistance-level.jpg" alt="Support and Resistance Level">
+
     The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
 
   * Trend lines
