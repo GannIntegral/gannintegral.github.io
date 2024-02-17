@@ -63,7 +63,7 @@ If you look at a forex chart, you might wonder how to determine if the price is 
 
 Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used methods by forex traders for you:
 
-  * <strong>Support and Resistance</strong>
+  * <strong>Support and Resistance Level</strong>
 
     <img src="https://www.daytrading.ltd/img/support-and-resistance-level.jpg" alt="Support and Resistance Level">
 
