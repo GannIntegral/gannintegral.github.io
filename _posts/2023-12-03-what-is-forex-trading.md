@@ -66,15 +66,15 @@ If you look at a forex chart, you might wonder how to determine if the price is 
 
 Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used methods by forex traders for you:
 
-  ### Support and Resistance Level
+### Support and Resistance Level
 
-    <img src="https://www.daytrading.ltd/img/support-and-resistance-level.jpg" alt="Support and Resistance Level">
+<img src="https://www.daytrading.ltd/img/support-and-resistance-level.jpg" alt="Support and Resistance Level">
 
-    The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
+The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
 
-  ### Trend lines
-  ### Indicators
-  ### Chart Patterns
+### Trend lines
+### Indicators
+### Chart Patterns
 
 ## What is Fundamental Analysis?
 Fundamental is a method used by trader by analyzing market economics data.
