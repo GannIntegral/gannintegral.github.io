@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-16 21:23:00
+date: 2024-02-17 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -51,6 +51,9 @@ Each currency in online forex trading are qouted in pairs that group in three ca
    * Aggressive slippage.
 
 ### Bid and Ask in Forex Trading
+
+<img src="https://www.daytrading.ltd/img/bid-and-ask-price.jpg" alt="Bid and Ask Price">
+
 When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
 
 Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
