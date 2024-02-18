@@ -24,20 +24,20 @@ If you find the given rates acceptable and are willing to buy the yen currencies
 
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over The Counter (OTC).
 
-### Forex Currency are Quote in Pairs
+## Forex Currency are Quote in Pairs
 Each currency in online forex trading are qouted in pairs that group in three category:
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
- * Major forex pairs:
+ ### Major forex pairs
 
    <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
 
- * Minor forex pairs:
+ ### Minor forex pairs
 
    Minor forex pairs have lower trading volumes, making them less volatile compared to major forex pairs. This results in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
- * Exotic forex pairs:
+ ### Exotic forex pairs
 
    Exotic forex pair is the widest spread among forex currency pairs and retail trader that dont have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
@@ -50,7 +50,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
    * Low liquidity to apply scalping trading strategy.
    * Aggressive slippage.
 
-### Bid and Ask in Forex Trading
+## Bid and Ask in Forex Trading
 
 <img src="https://www.daytrading.ltd/img/bid-and-ask-price.jpg" alt="Bid and Ask Price">
 
@@ -66,15 +66,15 @@ If you look at a forex chart, you might wonder how to determine if the price is 
 
 Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used methods by forex traders for you:
 
-  * <strong>Support and Resistance Level</strong>
+  ### <strong>Support and Resistance Level</strong>
 
     <img src="https://www.daytrading.ltd/img/support-and-resistance-level.jpg" alt="Support and Resistance Level">
 
     The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
 
-  * Trend lines
-  * Indicators
-  * Chart Patterns
+  ### Trend lines
+  ### Indicators
+  ### Chart Patterns
 
 ## What is Fundamental Analysis?
 Fundamental is a method used by trader by analyzing market economics data.
