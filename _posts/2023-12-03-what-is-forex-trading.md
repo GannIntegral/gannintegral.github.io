@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-17 21:23:00
+date: 2024-02-19 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -66,7 +66,7 @@ The differences between <strong>bid and ask price</strong> is called as spread. 
 
 If you look at a forex chart, you might wonder how to determine if the price is going up or down. Here, technical analysis comes into play!
 
-Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used methods by forex traders for you:
+Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Now, let me list the most commonly used technical analysis by forex traders for you:
 
 ### Support and Resistance Level
 
@@ -75,6 +75,13 @@ Technical analysis is one of the methods used by traders to predict the forex ma
 The last known lowest price is considered the support level, and the last known highest price is considered the resistance level. To determine if you are in a downtrend market, you need to observe whether the price is breaking the last nearest low price and respecting the last high price. It is better to refer to higher timeframes such as D1/Daily as your compass and use the H1/Hourly timeframe for trend reference, whether it's a trend continuation, reversal, or sideways movement.
 
 ### Trend lines
+
+<img src="https://www.daytrading.ltd/img/trendline.jpg" alt="Trendline">
+
+To obtain strong trend line, you need to identified multiple of strong and reasonable support or resistance level as shown in image above.
+
+When price approaching this trendline, it's a sign of potential reversal point. But if the price breaks above the trend line, you might want to wait until the price retrace back to the trendline before you can execute buy position with lowest risk.
+
 ### Indicators
 ### Chart Patterns
 
