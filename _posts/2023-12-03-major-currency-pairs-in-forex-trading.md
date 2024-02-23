@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major Pairs Forex Currency for Scalping Trading Strategy"
-date: 2024-01-28 21:23:00
+date: 2024-02-22 21:23:00
 categories: learning
 description: "Are you scalper? Get to know list of major pairs forex currency for better understanding."
 image: 'https://www.daytrading.ltd/img/charting-example-7.webp'
@@ -86,6 +86,7 @@ Understanding major pairs forex currency is essential for any forex trader. By a
 
 > <strong>Related Article</strong><br>
 > <a href="https://www.daytrading.ltd/learning/minor-currency-pairs-in-forex-trading">Minor Currency Pairs in Forex Trading</a>
+> <a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic Currency Pairs in Forex Trading</a>
 
 <script type="application/ld+json">
 {
