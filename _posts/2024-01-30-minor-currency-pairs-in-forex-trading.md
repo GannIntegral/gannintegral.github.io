@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minor Currency Pairs for Trend Following Trading Strategy"
-date: 2024-02-01 01:23:00
+date: 2024-02-23 01:23:00
 categories: learning
 description: "Claim your profit by exploring minor currency pairs to enhance your trend following trading strategy"
 image: 'https://www.daytrading.ltd/img/charting-example-7.webp'
@@ -139,7 +139,8 @@ Factors Influencing Minor Currency Pair Movements:
 Understanding minor currency pairs is essential for any forex trader. By analyzing economic indicators, monitoring central bank policies, and staying informed about geopolitical events, traders can make more informed decisions in the dynamic world of forex trading. Always remember that the forex market is influenced by a multitude of factors, and staying informed is key to successful trading in minor currency pairs.
 
 > <strong>Related Article</strong><br>
-> <a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic Currency Pairs in Forex Trading</a>
+> * <a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic Currency Pairs in Forex Trading</a>
+> * <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major Pairs Forex</a>
 
 <script type="application/ld+json">
 {
