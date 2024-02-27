@@ -84,6 +84,9 @@ To obtain strong trend line, you need to identified multiple of strong and reaso
 When price approaching this trendline, it's a sign of potential reversal point. But if the price breaks above the trend line, you might want to wait until the price retrace back to the trendline before you can execute buy position with lowest risk.
 
 ### Indicators
+
+Indicators are commonly mathematical formula that calculates price data and draw the output on forex chart. Trader use this indicator to evaluate price trends and patterns to find best trading setups.
+
 ### Chart Patterns
 
 ## What is Fundamental Analysis?
