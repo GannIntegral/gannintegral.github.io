@@ -47,7 +47,7 @@ Exotic forex pair is the widest spread among forex currency pairs and retail tra
    * Best suitable for trend trading strategy especially for those who focus on carry trade trading strategy.
 
    <strong>Cons:</strong>
-   * Widest mostly on major economic news release and weekend spread.
+   * Widest spread mostly on major economic news release, end of day and weekend.
    * Low liquidity to apply scalping trading strategy.
    * Aggressive slippage.
 
