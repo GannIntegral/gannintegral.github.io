@@ -36,7 +36,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 ### Minor forex pairs
 
-Minor forex pairs have lower trading volumes, making them less volatile compared to major forex pairs. This results in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
+<a href="https://www.daytrading.ltd/learning/minor-currency-pairs-in-forex-trading">Minor forex pairs</a> have lower trading volumes, making them less volatile compared to major forex pairs. This results in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
 ### Exotic forex pairs
 
