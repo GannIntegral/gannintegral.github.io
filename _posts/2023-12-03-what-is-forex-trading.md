@@ -40,7 +40,7 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 ### Exotic forex pairs
 
-Exotic forex pair is the widest spread among forex currency pairs and retail trader that dont have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+<a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic forex pair</a> is the widest spread among forex currency pairs and retail trader that dont have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
    <strong>Pros:</strong>
    * Less speculation.
