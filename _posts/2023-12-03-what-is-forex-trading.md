@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-24 21:23:00
+date: 2024-02-27 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
