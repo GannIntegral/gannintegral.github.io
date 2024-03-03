@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work"
-date: 2024-02-27 21:23:00
+date: 2024-03-03 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -88,9 +88,15 @@ When price approaching this trendline, it's a sign of potential reversal point. 
 Indicators are commonly mathematical formula that calculates price data and draw the output on forex chart. Trader use this indicator to evaluate price trends and patterns to find best trading setups.
 
 ### Chart Patterns
+Chart patterns is a combination of multiple candlestick that form specific patterns significantly. Some trader called it as candlestick patterns but i prefer called it as chart patterns because bigger wave more stronger signal and better for reqding large trend movement. These patterns can give signs to traders if the price trend is going to reverse, consodilate or continuation trend. Most common patterns are:
+
+  * Double top
+  * Double bottom
+  * Head and shoulder
+  * Engulfing
 
 ## What is Fundamental Analysis?
-Fundamental is a method used by trader by analyzing market economics data.
+Fundamental is a method used by trader by analyzing market using economics data. You can access this economic data on popular sites such as forexfactory economic calendar. Trader commonly used this economic data to confirmed their technical analysis and execute their trades if the economic data and technical analysis was aligned or exit their existing trades if the economic data is opposite to their trade direction.
 
 ## Forex Trading Strategy
 Once you understand technical and fundamental analysis, you can create you own trading strategy or use popular trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
