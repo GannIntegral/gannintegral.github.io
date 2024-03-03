@@ -102,7 +102,7 @@ Fundamental is a method used by trader by analyzing market using economics data.
 Once you understand technical and fundamental analysis, you can create you own trading strategy or use popular trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
 
 ## Choosing the Best Forex Broker
-When you trade forex online, you want to deal with a reputable CFD broker that provides segregated funds, allowing you to focus most of your time on finding trading opportunities. Therefore, you must know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
+When you trade forex online, you want to deal with a reputable CFD broker that provides you secured of funds. Segregated funds is one of criteria that trader would consider to put their money on table, this advantage allowing you to focus most of your time on finding trading opportunities. Therefore, i create an article specifically if you want to know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
 
 <script type="application/ld+json">
 {
