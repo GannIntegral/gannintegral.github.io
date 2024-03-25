@@ -17,16 +17,16 @@ tags: how-to-choose-best-forex-broker-2024
 
 If you're wondering how to choose the best forex broker, you're in the right place! In this article, I will explain, part by part, the broker criteria that you need to know in order to get the best trading conditions. However, it might be challenging for you to understand if you don't have any basic forex trading knowledge. In that case, I would advise you to read my previous article explaining <a href="https://www.daytrading.ltd/learning/what-is-forex-trading">what is forex trading and how it works</a>.
 
-## 0.1 Support, support and support!
+## Instant Customer Support
 Even if you've found the top-listed best forex brokers around the world, they are nothing without providing good customer support for their clients. Imagine you have made decent money from your trading account and you are planning to withdraw some portion of it, but suddenly your withdrawal request gets stuck in the middle of nowhere. The only people you need to contact are customer support. An instant reply from the support team will make your trading life less of a headache.
 
-## 0.2 Spread
-Trading costs are one of the reasons that eat into traders' profits. To reduce them, traders look for brokers that can provide them with the lowest spread, especially for major currency pairs. Sometimes, these spreads are low during normal trading hours but widen when news is released. Therefore, you need a reliable forex broker that can offer you the best spread under all market conditions.
+## Low Spread
+Trading costs are one of the reasons that eat into traders' profits. To reduce them, traders look for brokers that can provide them with the lowest spread, especially for major currency pairs. Sometimes, these spreads are low during normal trading hours but widen when news is released. Additionally, on weekends, spreads regularly widen to more than three times the normal spread. Therefore, you need a reliable forex broker that can offer you the best spread under all market conditions.
 
-## 0.3 Stop Loss Hunting
-## 0.4 Less Slippage
-## 0.5 Price Gap
-## 0.5 Price Spike
+## Stop Loss Hunting
+## Less Slippage
+## Price Gap
+## Price Spike
 
 ## 1. Understand Your Trading Style in Order to Choose Best Forex Broker
 <p>Before delving into broker selection, identify your trading style. Are you a day trader, swing trader, or a long-term investor? Each style has distinct requirements, such as execution speed, trading tools, and account types.</p>
