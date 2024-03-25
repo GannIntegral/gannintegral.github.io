@@ -24,6 +24,14 @@ Even if you've found the top-listed best forex brokers around the world, they ar
 Trading costs are one of the reasons that eat into traders' profits. To reduce them, traders look for brokers that can provide them with the lowest spread, especially for major currency pairs. Sometimes, these spreads are low during normal trading hours but widen when news is released. Additionally, on weekends, spreads regularly widen to more than three times the normal spread. Therefore, you need a reliable forex broker that can offer you the best spread under all market conditions.
 
 ## Stop Loss Hunting
+Have you heard of stop loss hunting before? No? Let me tell you. Stop loss hunting is one of the broker's tricks to take money from your trading account, and yes, this is a red flag for you to stop trading with them.
+
+But how do they use this trick to their advantage? Imagine you buy the EURUSD pair, and you've already set your stop loss and take profit. You close your trading app to take a nap or go shopping. After some time, you open your trading app just to check if your position has hit take profit or not, sadly it has hit stop loss.
+
+You wonder how your stop loss hit so easily when you've already measured the stop loss pips not too close to your entry position?! This happens when your broker uses a custom plugin to widen the spread just to hit their client's stop loss. This tactic is used to hedge or offset their risk so they won't lose much by paying profitable traders.
+
+This is why you need a reliable forex broker that can offer you a DMA/STP trading account instead of a dealing desk trading account.
+
 ## Less Slippage
 ## Price Gap
 ## Price Spike
