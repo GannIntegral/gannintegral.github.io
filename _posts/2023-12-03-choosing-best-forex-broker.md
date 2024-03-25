@@ -21,7 +21,7 @@ If you're wondering how to choose the best forex broker, you're in the right pla
 Even you've got top listed best forex broker around the world, they are nothing without providing good customer support for their client. Imagine you have made decent money out of your trading account and you are planning to withdraw some portion of it, suddenly your withdrawal request process stuck middle of no where. The only person you need to cantact is customer support. Instant reply from support team will make your trading life less headache.
 
 ## 0.2 Spread
-Trading cost is one of reason that eat traders profit.
+Trading cost is one of reason that eat traders profit. To reduce it, trader looking for broker that can provide them lowest spread especially for major currency pairs. Sometimes, these spread are low at normal trading hours but widen when news releases. Therefore, you need reliable forex broker that can offer you best spread on both market condition.
 
 ## 0.3 Stop Loss Hunting
 ## 0.4 Less Slippage
