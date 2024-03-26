@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Choose the Best Forex Broker in 2024"
-date:   2024-03-23 21:23:00
+date:   2024-03-25 21:23:00
 categories: learning
 description: "Beginner guide on how to choose the best forex broker in 2024 with our guide. Spread comparison, lowest commission and no deposit bonus"
 image: 'https://www.daytrading.ltd/img/charting-example-37.webp'
@@ -33,6 +33,8 @@ You wonder how your stop loss hit so easily when you've already measured the sto
 This is why you need a reliable forex broker that can offer you a DMA/STP trading account instead of a dealing desk trading account.
 
 ## Less Slippage
+Slippage defined as difference of requested price by trader vs filled price by brokers server and this happen due to multiple reasons. The common reason that might cause this is due to execution at the time of news event releases.
+
 ## Price Gap
 ## Price Spike
 
