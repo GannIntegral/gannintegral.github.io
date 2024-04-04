@@ -35,9 +35,8 @@ This is why you need a reliable forex broker that can offer you a DMA/STP tradin
 ## Less Slippage
 Slippage defined as difference of requested price by trader vs filled price by brokers server and this happen due to multiple reasons:
 
- * Economic News Event Release
-
- The common reason that might cause this is due to execution at the time of news event releases.
+ <strong>Economic News Event Release</strong>
+  The common reason that might cause this is due to execution at the time of news event releases.
 
 ## Price Gap
 ## Price Spike
