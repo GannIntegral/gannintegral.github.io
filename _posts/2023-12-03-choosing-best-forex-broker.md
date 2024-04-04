@@ -33,7 +33,10 @@ You wonder how your stop loss hit so easily when you've already measured the sto
 This is why you need a reliable forex broker that can offer you a DMA/STP trading account instead of a dealing desk trading account.
 
 ## Less Slippage
-Slippage defined as difference of requested price by trader vs filled price by brokers server and this happen due to multiple reasons. The common reason that might cause this is due to execution at the time of news event releases.
+Slippage defined as difference of requested price by trader vs filled price by brokers server and this happen due to multiple reasons:
+
+ * Economic News Event Release
+ The common reason that might cause this is due to execution at the time of news event releases.
 
 ## Price Gap
 ## Price Spike
