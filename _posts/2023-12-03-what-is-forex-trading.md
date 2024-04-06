@@ -16,7 +16,7 @@ tags: what-is-forex-trading forex-trading
 ---
 
 ## What is Forex Trading
-The foreign currency exchange,  as the forex market, is where forex traders make money by buying and selling currencies through online forex broker trading platforms. Forex is the world's largest market compared to stocks, options, and futures, where currencies are traded 24 hours a day for five business days a week.
+The foreign currency exchange, the forex market, is where forex traders make money by buying and selling currencies through online forex broker trading platforms. Forex is the world's largest market compared to stocks, options, and futures, where currencies are traded 24 hours a day for five business days a week.
 
 ## How Forex Trading Works
 For an offline forex trading example, imagine you want to travel from your country, the United States of America, to Japan. In this situation, you must convert your cash from USD to YEN at a nearby money changer. You are essentially selling dollars and buying yen at the rates the exchanger provides. These rates include the actual yen currency value plus some commission the exchanger charges.
