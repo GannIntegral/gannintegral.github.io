@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is Forex Trading and How Does it Work"
+title: "What is Forex Trading and How Does it Work?"
 date: 2024-03-02 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how it works from beginners perspectives"
@@ -36,11 +36,11 @@ Each currency in online forex trading is quoted in pairs that group into three c
 
 ### Minor forex pairs
 
-<a href="https://www.daytrading.ltd/learning/minor-currency-pairs-in-forex-trading">Minor forex pairs</a> have lower trading volumes, making them less volatile compared to major forex pairs that result in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
+Minor forex pairs have lower trading volumes, making them less volatile than major forex pairs that result in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
-### Exotic forex pairs
+### Exotic forex pairs 
 
-<a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic forex pair</a> is the widest spread among forex currency pairs and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+Exotic forex pair</a> is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
    <strong>Pros:</strong>
    * Less speculation.
