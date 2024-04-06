@@ -3,7 +3,7 @@ layout: post
 title: "What is Forex Trading and How Does it Work"
 date: 2024-03-02 21:23:00
 categories: learning
-description: "All you need to know about what is forex trading and how does it work in beginners perspectives"
+description: "All you need to know about what is forex trading and how it works from beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
 #hero_image: https://www.daytrading.ltd/img/charting-example-0.webp
 #hero_height: is-large
@@ -16,17 +16,17 @@ tags: what-is-forex-trading forex-trading
 ---
 
 ## What is Forex Trading
-The foreign currency exchange, known as the forex market where forex trader make money by buying and selling currencies through online forex broker trading platform. Forex is a world largest market compared to stocks, options, and futures where currencies are traded 24 hours a day for five business days a week.
+The foreign currency exchange, known as the forex market where forex traders make money by buying and selling currencies through online forex broker trading platforms. Forex is the world's largest market compared to stocks, options, and futures where currencies are traded 24 hours a day for five business days a week.
 
 ## How Forex Trading Works
 For an offline forex trading example, imagine you want to travel from your country, let's say the United States of America, to Japan. In this situation, you need to convert your cash from USD to YEN at a nearby money changer. You are essentially selling dollars and buying yen at the given rates provided by the exchanger. These rates include the actual yen currency value plus some commission charged by the exchanger.
 
 If you find the given rates acceptable and are willing to buy the yen currencies at a specific amount of dollars, the transaction will be completed. Otherwise, you may choose to seek another exchanger offering lower rates.
 
-In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over The Counter (OTC).
+In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
 ## Forex Currency are Quote in Pairs
-Each currency in online forex trading are qouted in pairs that group in three category:
+Each currency in online forex trading is quoted in pairs that group into three categories:
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
@@ -40,32 +40,32 @@ Each currency in online forex trading are qouted in pairs that group in three ca
 
 ### Exotic forex pairs
 
-<a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic forex pair</a> is the widest spread among forex currency pairs and retail trader that dont have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+<a href="https://www.daytrading.ltd/learning/exotic-currency-pairs-in-forex-trading">Exotic forex pair</a> is the widest spread among forex currency pairs and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
    <strong>Pros:</strong>
    * Less speculation.
    * Best suitable for trend trading strategy especially for those who focus on carry trade trading strategy.
 
    <strong>Cons:</strong>
-   * Widest spread mostly on major economic news release, end of day and weekend.
-   * Low liquidity to apply scalping trading strategy.
+   * Widest spread mostly on major economic news releases, end of day and weekend.
+   * Low liquidity to apply the scalping trading strategy.
    * Aggressive slippage.
 
 ## Bid and Ask in Forex Trading
 
 <img src="https://www.daytrading.ltd/img/bid-and-ask-price.jpg" alt="Bid and Ask Price">
 
-When you do <strong>online forex trading</strong>, the currency rates offered in two price. The first price called as Bid price and the second one is Ask price.
+When you do <strong>online forex trading</strong>, the currency rates are offered at two prices. The first price called as Bid price and the second one is the Ask price.
 
-Bid price is the best available price offered by your forex broker when you want to buy the currency and ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
+The bid price is the best available price offered by your forex broker when you want to buy the currency and the ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
 
 ### Bid-Ask Spread
 
-The differences between <strong>bid and ask price</strong> is called as spread. This spread is depending on your brokers liquidity provider, the more LP's they have, the more tighten the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
+The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider, the more LP's they have, the more tight the spread. This is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
 
 ## What is Technical Analysis?
 
-If you look at a forex chart, you might wonder how to determine if the price is going up or down. Now let me explain <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">what is technical analysis in trading</a> and next you will understand why it is important in forex trading!
+If you look at a forex chart, you might wonder how to determine if the price is going up or down. Now let me explain <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">what is technical analysis in trading</a> and next, you will understand why it is important in forex trading!
 
 Technical analysis is one of the methods used by traders to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market blindly! Below I list the most commonly used technical analysis by forex traders for you:
 
@@ -79,16 +79,16 @@ The last known lowest price is considered the support level, and the last known 
 
 <img src="https://www.daytrading.ltd/img/trendline.jpg" alt="Trendline">
 
-To obtain strong trend line, you need to identified multiple of strong and reasonable support or resistance level as shown in image above.
+To obtain a strong trend line, you need to identify multiple strong and reasonable support or resistance levels as shown in the image above.
 
-When price approaching this trendline, it's a sign of potential reversal point. But if the price breaks above the trend line, you might want to wait until the price retrace back to the trendline before you can execute buy position with lowest risk.
+When the price approaches this trendline, it's a sign of a potential reversal point. But if the price breaks above the trend line, you might want to wait until the price retraces back to the trendline before you can execute the buy position with the lowest risk.
 
 ### Indicators
 
-Indicators are commonly mathematical formula that calculates price data and draw the output on forex chart. Trader use this indicator to evaluate price trends and patterns to find best trading setups.
+Indicators are commonly mathematical formula that calculates price data and draw the output on a forex chart. Traders use this indicator to evaluate price trends and patterns to find the best trading setups.
 
 ### Chart Patterns
-Chart patterns is a combination of multiple candlestick that form specific patterns significantly. Some trader called it as candlestick patterns but i prefer called it as chart patterns because bigger wave more stronger signal and better for reqding large trend movement. These patterns can give signs to traders if the price trend is going to reverse, consodilate or continuation trend. Most common patterns are:
+Chart patterns are a combination of multiple candlesticks that form specific patterns significantly. Some traders call them candlestick patterns but I prefer to call them chart patterns because of their bigger wave stronger signal and better for reading large trend movement. These patterns can give signs to traders if the price trend is going to reverse, consolidate, or continuation trend. The most common patterns are:
 
   * Double top
   * Double bottom
@@ -96,13 +96,13 @@ Chart patterns is a combination of multiple candlestick that form specific patte
   * Engulfing
 
 ## What is Fundamental Analysis?
-Fundamental is a method used by trader by analyzing market using economics data. You can access this economic data on popular sites such as forexfactory economic calendar. Trader commonly used this economic data to confirmed their technical analysis and execute their trades if the economic data and technical analysis was aligned or exit their existing trades if the economic data is opposite to their trade direction.
+Fundamental is a method used by the trader to analyze the market using economic data. You can access this economic data on popular sites such as the forexfactory economic calendar. Trader commonly uses this economic data to confirm their technical analysis and execute their trades if the economic data and technical analysis was aligned or exit their existing trades if the economic data is opposite to their trade direction.
 
 ## Forex Trading Strategy
-Once you understand technical and fundamental analysis, you can create you own trading strategy or use popular trading strategy that suits your trading lifestyle to secured capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
+Once you understand technical and fundamental analysis, you can create your trading strategy or use a popular trading strategy that suits your trading lifestyle to secure capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
 
 ## Choosing the Best Forex Broker
-When you trade forex online, you want to deal with a reputable CFD broker that provides you secured of funds. Segregated funds is one of criteria that trader would consider to put their money on table, this advantage allowing you to focus most of your time on finding trading opportunities. Therefore, i create an article specifically if you want to know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
+When you trade forex online, you want to deal with a reputable CFD broker that provides you with secured funds. Segregated funds are one of the criteria that trader would consider to put their money on the table, this advantage allows you to focus most of your time on finding trading opportunities. Therefore, I created an article specifically if you want to know <a href="https://www.daytrading.ltd/learning/choosing-best-forex-broker">how to choose the best forex broker</a>.
 
 <script type="application/ld+json">
 {
@@ -114,7 +114,7 @@ When you trade forex online, you want to deal with a reputable CFD broker that p
       "name": "What is Forex Trading?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Forex trading is where trader buying and selling currencies online."
+        "text": "Forex trading is where traders buy and sell currencies online."
       }
     },
     {
@@ -162,7 +162,7 @@ When you trade forex online, you want to deal with a reputable CFD broker that p
       "name": "What is the Importance of Developing a Forex Trading Strategy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A trading strategy provides a framework for decision-making, incorporating fundamental and technical analyses. It defines goals, risk management principles, and ensures consistency in trading approaches."
+        "text": "A trading strategy provides a framework for decision-making, incorporating fundamental and technical analyses. It defines goals, and risk management principles, and ensures consistency in trading approaches."
       }
     },
     {
