@@ -21,7 +21,7 @@ tags: support-resistance forex-trading
 <p>Support represents a price level at which an asset tends to stop falling, while resistance signifies a level at which it often halts its upward climb. These levels are essentially psychological thresholds that reflect the collective decisions of market participants.</p>
 
 ## Importance of Support and Resistance in Trading
-<p>Understanding the psychological and strategic implications of support and resistance is paramount. These levels shape <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">forex market sentiment</a>, assist in identifying optimal entry and exit points, and form the bedrock of risk management strategies. Traders who grasp their significance gain a competitive edge in the dynamic world of trading.</p>
+<p>Understanding the psychological and strategic implications of support and resistance is paramount. These levels shape forex market sentiment, assist in identifying optimal entry and exit points, and form the bedrock of risk management strategies. Traders who grasp their significance gain a competitive edge in the dynamic world of trading.</p>
 
 ## Identifying Support and Resistance
 <p>Several techniques aid in pinpointing these critical levels. Drawing trendlines across significant highs and lows, utilizing moving averages, and recognizing <a href="https://www.daytrading.ltd/learning/chart-patterns-in-forex-trading">chart patterns</a> are among the methods employed. A nuanced understanding of price action is essential for accurate identification.</p>
