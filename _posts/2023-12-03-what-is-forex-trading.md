@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work?"
-date: 2024-03-02 21:23:00
+date: 2024-04-05 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how it works from beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -40,7 +40,7 @@ Minor forex pairs have lower trading volumes, making them less volatile than maj
 
 ### Exotic forex pairs 
 
-Exotic forex pair</a> is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+Exotic forex pair is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
    <strong>Pros:</strong>
    * Less speculation.
