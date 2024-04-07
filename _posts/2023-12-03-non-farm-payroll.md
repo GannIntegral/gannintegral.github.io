@@ -36,7 +36,7 @@ tags: non-farm-payroll forex-trading
 <p>Traders can capitalize on increased market volatility surrounding the NFP release. Sudden price movements in currency pairs, commodities, and indices provide ample trading opportunities.</p></li>
 
 <li><strong>Market Sentiment Insights:</strong><p>
-NFP data influences <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">forex market sentiment</a> and can trigger trends or reversals. Understanding the sentiment can guide traders in making informed decisions.</p></li>
+NFP data influences forex market sentiment and can trigger trends or reversals. Understanding the sentiment can guide traders in making informed decisions.</p></li>
 
 <li><strong>Currency Market Impact:</strong>
 <p>Forex traders closely monitor NFP data, as it often leads to significant fluctuations in currency pairs, especially involving the U.S. dollar. Traders can adjust their positions based on the report's impact on exchange rates.</p></li>
