@@ -23,7 +23,7 @@ tags: technical-analysis forex-trading
 ## Key Principles of Technical Analysis
 <ul>
 <li><strong>Price Discounts Everything:</strong><p>
-Technical analysts assert that all information, whether it be news, earnings, or <a href="https://www.daytrading.ltd/learning/forex-market-sentiment">forex market sentiment</a>, is already reflected in the stock price. Therefore, studying price patterns can provide insights into the collective wisdom of market participants.</p></li>
+Technical analysts assert that all information, whether it be news, earnings, or forex market sentiment, is already reflected in the stock price. Therefore, studying price patterns can provide insights into the collective wisdom of market participants.</p></li>
 
 <li><strong>Price Moves in Trends:</strong><p>
 One of the fundamental tenets of technical analysis is the idea that prices move in trends – upward, downward, or sideways. Identifying these trends is crucial for making informed trading decisions.</p></li>
