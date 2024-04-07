@@ -65,7 +65,7 @@ The difference between <strong>bid and ask price</strong> is called as spread. T
 
 ## What is Technical Analysis?
 
-If you look at a forex chart, you might wonder how to determine if the price is going up or down. Now let me explain <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">what is technical analysis in trading</a>, and next, you will understand why it is crucial in forex trading!
+If you look at a forex chart, you might wonder how to determine if the price is going up or down. Now let me explain what is <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">technical analysis</a> in trading, and next, you will understand why it is crucial in forex trading!
 
 Technical analysis is one method traders use to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market unquestioningly! Below, I list the most commonly used technical analysis by forex traders for you:
 
