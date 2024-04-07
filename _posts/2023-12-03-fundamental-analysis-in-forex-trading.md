@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fundamental Analysis in FOREX Trading"
-date: 2024-01-10 21:23:00
+date: 2024-04-05 21:23:00
 categories: learning
 description: "Uncover forex trading's fundamentals: economic indicators, interest rates, and geopolitical events. Master strategies for successful trading."
 image: 'https://www.daytrading.ltd/img/charting-example-23.webp'
@@ -27,7 +27,7 @@ tags: fundamental-analysis forex-trading
   
 <li><strong><a href="https://www.daytrading.ltd/learning/consumer-price-index">Consumer Price Index</a> (CPI):</strong> Reflects inflation levels.</li>
   
-<li><strong><a href="https://www.daytrading.ltd/learning/employment-report">Employment Report</a>:</strong> Indicates the health of the job market.</li>
+<li><strong>Employment Report:</strong> Indicates the health of the job market.</li>
 
 <h3>Interest Rates:</h3>
 
