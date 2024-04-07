@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interest Rates and Their Impact on Forex Trading"
-date:   2024-01-10 21:23:00
+date:   2024-04-05 21:23:00
 categories: learning
 description: "Explore the impact of interest rates on trading strategies. From forex to equities, learn how to navigate markets in a changing rate environment."
 image: 'https://www.daytrading.ltd/img/charting-example-20.webp'
@@ -39,7 +39,7 @@ tags: interest-rates forex-trading
 In times of uncertainty, diversifying a portfolio across various asset classes can help mitigate risks associated with interest rate changes.</p>
   
 <p><strong>Monitoring Economic Indicators: </strong>
-Keeping an eye on <a href="https://www.daytrading.ltd/learning/economic-indicators-in-forex-trading">economic indicators</a>, such as employment reports and inflation data, can provide insights into potential shifts in interest rates.</p>
+Keeping an eye on economic indicators, such as employment reports and inflation data, can provide insights into potential shifts in interest rates.</p>
 
 ## Risks and Considerations
 <p><strong>Volatility: </strong>Interest rate decisions can lead to market volatility, impacting asset prices and triggering rapid market movements.</p>
