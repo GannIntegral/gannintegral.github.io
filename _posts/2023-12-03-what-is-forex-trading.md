@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work?"
-date: 2024-04-05 21:23:00
+date: 2024-04-10 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how it works from beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -19,9 +19,6 @@ tags: what-is-forex-trading forex-trading
 Forex trading is online currency trading; a retail trader buys one's currency and sells the other to make a profit. It is a famous way to make side income because people don't need to do marketing to sell products.
 
 ## How Forex Trading Works
-For an offline forex trading example, imagine you want to travel from your country, the United States of America, to Japan. In this situation, you must convert your cash from USD to YEN at a nearby money changer. You are essentially selling dollars and buying yen at the rates the exchanger provides. These rates include the actual yen currency value plus some commission the exchanger charges.
-
-If you find the given rates acceptable and are willing to buy the yen currencies at a specific amount of dollars, the transaction will be completed. Otherwise, you may choose to seek another exchanger offering lower rates.
 
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
