@@ -22,20 +22,20 @@ Forex trading is online currency trading; a retail trader buys one's currency an
 
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
-## Forex Currency are Quote in Pairs
+### Forex Currency are Quote in Pairs
 Each currency in online forex trading is quoted in pairs that group into three categories:
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote, which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
-### Major forex pairs
+#### Major forex pairs
 
 <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders, especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
 
-### Minor forex pairs
+#### Minor forex pairs
 
 Minor forex pairs have lower trading volumes, making them less volatile than major forex pairs that result in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
-### Exotic forex pairs 
+#### Exotic forex pairs 
 
 Exotic forex pair is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
 
@@ -48,7 +48,7 @@ Exotic forex pair is the widest spread among forex currency pairs, and retail tr
    * Low liquidity to apply the scalping trading strategy.
    * Aggressive slippage.
 
-## Bid and Ask in Forex Trading
+### Bid and Ask in Forex Trading
 
 <img src="https://www.daytrading.ltd/img/bid-and-ask-price.jpg" alt="Bid and Ask Price">
 
