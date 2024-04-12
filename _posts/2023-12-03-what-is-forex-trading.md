@@ -23,6 +23,11 @@ Forex trading is online currency trading; a retail trader buys one's currency an
 ### Broker Trading Platform
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>broker trading platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
+The most popular forex trading platforms available online are:
+
+ * MT4 / MT5 by Metaquotes 
+ * CTrader
+
 ### Forex Currency is Quote in Pairs
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote, which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
