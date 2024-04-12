@@ -26,7 +26,8 @@ In <strong>online forex trading</strong>, everything is done electronically thro
 The most popular forex trading platforms available online are:
 
  * MT4 / MT5 by Metaquotes 
- * CTrader
+ * CTrader 
+ * Tradingview
 
 ### Forex Currency is Quote in Pairs
 
