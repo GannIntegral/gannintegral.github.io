@@ -43,10 +43,12 @@ Each currency in online forex trading is quoted in pairs that group into three c
    * Tight spread most of the time leads to low trading costs.
    * Most volatile pairs.
    * Best for scalping trading strategy.
+   * Less slippage.
 
    <strong>Cons:</strong> 
    * Not suitable for swing trading strategy.
    * Lots of economic data that need to be aware of.
+   * Highly speculative.
 
 #### Minor forex pairs
 
