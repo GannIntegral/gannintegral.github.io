@@ -55,6 +55,14 @@ Each currency in online forex trading is quoted in pairs that group into three c
 
 Minor forex pairs have lower trading volumes, making them less volatile than major forex pairs that result in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
 
+   <strong>Pros:</strong> 
+   * Less speculation compared to major currency pairs.
+   * Ideal for carry trade trading strategy and swing trading strategy.
+
+   <strong>Cons:</strong> 
+   * Bigger spread compared to major currency pairs.
+   * Not suitable for scalping trading strategy.
+
 #### Exotic forex pairs 
 
 Exotic forex pair is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills want to avoid trading it at any cost and let me give you the pros and cons:
