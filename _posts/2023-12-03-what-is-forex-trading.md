@@ -39,6 +39,15 @@ Each currency in online forex trading is quoted in pairs that group into three c
 
 <a href="https://www.daytrading.ltd/learning/major-currency-pairs-in-forex-trading">Major pairs forex</a> currency are the most traded in the forex market. Due to their large trading volume compared to other pairs, they are actively traded among market players. They are popular among retail traders, especially scalpers and daytrader due to their liquidity, which often leads to tighter spreads, making it easier for traders to execute trades and reduce their trading costs.
 
+   <strong>Pros:</strong> 
+   * Tight spread most of the time leads to low trading costs.
+   * Most volatile pairs.
+   * Best for scalping trading strategy.
+
+   <strong>Cons:</strong> 
+   * Not suitable for swing trading strategy.
+   * Lots of economic data that need to be aware of.
+
 #### Minor forex pairs
 
 Minor forex pairs have lower trading volumes, making them less volatile than major forex pairs that result in a wider spread, making them unsuitable for scalping trading strategies. Typically, long-term traders choose to trade these pairs because their nature aligns with their trend-following trading strategy.
@@ -70,7 +79,7 @@ The difference between <strong>bid and ask price</strong> is called as spread. T
 
 ## What is Technical Analysis?
 
-If you look at a forex chart, you might wonder how to determine if the price is going up or down. Now let me explain what is <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">technical analysis</a> in trading, and next, you will understand why it is crucial in forex trading!
+If you look at a Forex chart, you might wonder how to determine if the price is going up or down. Now let me explain what is <a href="https://www.daytrading.ltd/learning/technical-analysis-in-forex-trading">technical analysis</a> in trading, and next, you will understand why it is crucial in forex trading!
 
 Technical analysis is one method traders use to predict the forex market. With this knowledge, traders can time their market entries and exits as needed. Without mastering this skill, it's like trading the forex market unquestioningly! Below, I list the most commonly used technical analysis by forex traders for you:
 
@@ -101,7 +110,7 @@ Chart patterns are a combination of multiple candlesticks that form specific pat
   * Engulfing
 
 ## What is Fundamental Analysis?
-Fundamental is a method the trader uses to analyze the market using economic data. You can access this economic data on popular sites like the forexfactory economic calendar. Trader commonly uses this economic data to confirm their technical analysis and execute their trades if the economic data and technical analysis are aligned or exit their existing trades if the economic data is opposite to their trade direction.
+Fundamental is a method the trader uses to analyze the market using economic data. You can access this economic data on popular sites like the <a href="https://www.forexfactory.com/calendar" rel="nofollow">Forexfactory Economic Calendar</a>. Trader commonly uses this economic data to confirm their technical analysis and execute their trades if the economic data and technical analysis are aligned or exit their existing trades if the economic data is opposite to their trade direction.
 
 ## Forex Trading Strategy
 Once you understand technical and fundamental analysis, you can create your trading strategy or use a popular trading strategy that suits your trading lifestyle to secure capital and maximize your potential profits for an example <a href="https://www.daytrading.ltd/learning/commitments-of-traders">COT Report Trading Strategy</a>.
