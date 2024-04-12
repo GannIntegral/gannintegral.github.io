@@ -22,7 +22,7 @@ Forex trading is online currency trading; a retail trader buys one's currency an
 
 In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
-### Forex Currency are Quote in Pairs
+### Forex Currency is Quote in Pairs
 
 > Example: EUR/USD – Euro (EUR) is the base, and the US Dollar (USD) is the quote, which is if the price of EURUSD is 1.08526, this means 1 Euro equal to 1.08526 USD.
 
@@ -38,7 +38,7 @@ Minor forex pairs have lower trading volumes, making them less volatile than maj
 
 #### Exotic forex pairs 
 
-Exotic forex pair is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills wants to avoid to trade it at any cause and let me give you the pros and cons:
+Exotic forex pair is the widest spread among forex currency pairs, and retail traders that don't have strong trading skills want to avoid trading it at any cost and let me give you the pros and cons:
 
    <strong>Pros:</strong>
    * Less speculation.
@@ -53,7 +53,7 @@ Exotic forex pair is the widest spread among forex currency pairs, and retail tr
 
 <img src="https://www.daytrading.ltd/img/bid-and-ask-price.jpg" alt="Bid and Ask Price">
 
-When you do <strong>online forex trading</strong>, the currency rates are offered at two prices. The first price is called the Bid price, and the second is the Ask price.
+When you do <strong>online forex trading</strong>, the currency rates are offered at two prices. The first price is called the <strong>Bid price</strong>, and the second is the <strong>Ask price</strong>.
 
 The bid price is the best available price offered by your forex broker when you want to buy the currency, and the ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
 
