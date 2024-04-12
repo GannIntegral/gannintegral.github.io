@@ -20,7 +20,8 @@ Forex trading is online currency trading; a retail trader buys one's currency an
 
 ## How Forex Trading Works
 
-In <strong>online forex trading</strong>, everything is done electronically through a <strong>forex broker platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
+### Broker Trading Platform
+In <strong>online forex trading</strong>, everything is done electronically through a <strong>broker trading platform</strong> called the Electronic Communication Network (ECN). The transaction between you as the broker's client and the broker as your dealer is called Over-the-counter (OTC).
 
 ### Forex Currency is Quote in Pairs
 
