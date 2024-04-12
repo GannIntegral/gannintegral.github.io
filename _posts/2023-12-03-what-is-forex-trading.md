@@ -27,7 +27,7 @@ The most popular forex trading platforms available online are:
 
  * <a href="https://www.metatrader4.com" rel="nofollow">MT4</a> / <a href="https://www.metatrader5.com" rel="nofollow">MT5</a>.
  * <a href="https://ctrader.com" rel="nofollow">CTrader</a>.
- * <a href="https://www.tradingview.com rel="nofollow">TradingView</a>.
+ * <a href="https://www.tradingview.com" rel="nofollow">TradingView</a>.
 
 ### Forex Currency is Quote in Pairs
 
