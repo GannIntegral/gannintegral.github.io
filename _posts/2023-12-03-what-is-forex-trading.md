@@ -116,9 +116,15 @@ To obtain a strong trend line, you must identify multiple strong and reasonable 
 
 When the price approaches this trendline, it's a sign of a potential reversal point. But if the price breaks above the trend line, you might want to wait until the price retraces back to the trendline before you can execute the buy position with the lowest risk.
 
-### Indicators
+### Best Forex Trading Indicators
 
-Indicators are commonly mathematical formula that calculates price data and draw the output on a forex chart. Traders use this indicator to evaluate price trends and patterns to find the best trading setups.
+Indicators are commonly mathematical formula that calculates price data and draw the output on a forex chart. Traders use this indicator to evaluate price trends and patterns to find the best trading setups. The most popular indicators used by forex traders are;
+
+   * Moving Average
+   * Relative Strength Index 
+   * MACD 
+   * Stochastic 
+   * Bollinger Band
 
 ### Chart Patterns
 Chart patterns are a combination of multiple candlesticks that form specific patterns significantly. Some traders call them candlestick patterns, but I prefer to call them chart patterns because of their more significant wave stronger signal and better for reading large trend movement. These patterns can give signs to traders if the price trend is going to reverse, consolidate, or continuation trend. The most common patterns are:
