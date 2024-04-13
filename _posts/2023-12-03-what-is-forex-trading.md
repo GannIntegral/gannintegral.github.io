@@ -84,9 +84,13 @@ When you do <strong>online forex trading</strong>, the currency rates are offere
 
 The bid price is the best available price offered by your forex broker when you want to buy the currency, and the ask price is the price offered by your broker if you intentionally want to sell the currency at that moment. 
 
+### How to Calculate Forex Pip 
+
+Forex currency pairs price movement is measured in 'PIP'. Let's take the EURUSD price as an example; if the current price is 1.06401, it tells you that EURUSD has five decimal places after a point. Now, if the price climbs to 1.06501, this tells us that the price has already moved 10.0 pips from the initial price.
+
 ### Bid-Ask Spread
 
-The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider; the more LPs they have, the tighter the spread, and this is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>. You can compare major currency pair spread between weekends and weekdays below, and this is the best spread I could get from my trading broker.
+The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider; the more LPs they have, the tighter the spread, and this is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>. You can compare major currency pair spreads between weekends and weekdays below, and this is the best spread I could get from my trading broker.
 
 <img src="https://www.daytrading.ltd/img/major-forex-pair-weekdays-spread.jpg" alt="Major Forex Pair Weekdays Spread">
 
