@@ -86,7 +86,7 @@ The bid price is the best available price offered by your forex broker when you 
 
 ### How to Calculate Forex Pip 
 
-Forex currency pairs price movement is measured in 'PIP'. Let's take the EURUSD price as an example; if the current price is 1.06401, it tells you that EURUSD has five decimal places after a point. Now, if the price climbs to 1.06501, this tells us that the price has already moved 10.0 pips from the initial price.
+Forex currency pairs price movement is measured in 'PIP'. Let's take the EURUSD price as an example; if the current price is 1.06401, it tells us that EURUSD has five decimal places after a point. Now, if the price climbs to 1.06501, this tells us that the price has already moved 10.0 pips from the initial price.
 
 ### Bid-Ask Spread
 
