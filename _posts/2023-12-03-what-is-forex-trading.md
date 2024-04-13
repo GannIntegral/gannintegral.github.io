@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Forex Trading and How Does it Work?"
-date: 2024-04-10 21:23:00
+date: 2024-04-11 21:23:00
 categories: learning
 description: "All you need to know about what is forex trading and how it works from beginners perspectives"
 image: 'https://www.daytrading.ltd/img/charting-example-1.webp'
@@ -86,7 +86,11 @@ The bid price is the best available price offered by your forex broker when you 
 
 ### Bid-Ask Spread
 
-The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider; the more LPs they have, the tighter the spread, and this is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>.
+The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider; the more LPs they have, the tighter the spread, and this is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>. You can compare major currency pair spread between weekends and weekdays below, and this is the best spread I could get from my trading broker.
+
+<img src="https://www.daytrading.ltd/img/major-forex-pair-weekdays-spread.jpg" alt="Major Forex Pair Weekdays Spread">
+
+<img src="https://www.daytrading.ltd/img/major-forex-pair-weekend-spread.jpg" alt="Major Forex Pair Weekends Spread">
 
 ## What is Technical Analysis?
 
