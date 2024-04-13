@@ -88,6 +88,8 @@ The bid price is the best available price offered by your forex broker when you 
 
 Forex currency pairs price movement is measured in 'PIP'. Let's take the EURUSD price as an example; if the current price is 1.06401, it tells us that EURUSD has five decimal places after a point. Now, if the price climbs to 1.06501, this tells us that the price has already moved 10.0 pips from the initial price.
 
+Let's take another currency pair example, USDJPY. If the current price is 153.260 and the price drops to 153.150, you can divide both prices, and you will get 0.110. Since the USDJPY price only has three decimal places, the PIP count read as 11.0pips drops from the initial price.
+
 ### Bid-Ask Spread
 
 The difference between <strong>bid and ask price</strong> is called as spread. This spread depends on your broker's liquidity provider; the more LPs they have, the tighter the spread, and this is why you want to find <strong>lowest spread forex broker</strong> so that you can <strong>reduce your trading cost</strong>. You can compare major currency pair spreads between weekends and weekdays below, and this is the best spread I could get from my trading broker.
